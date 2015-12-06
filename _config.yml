@@ -1,0 +1,12 @@
+# Site settings
+title: Perth Linux Users Group
+email: committee@plug.org.au
+description: >
+  PLUG aims to promote Linux and support the users of Linux in Western Australia.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://plug.org.au" # the base hostname & protocol for your site
+twitter_username: plugorgau
+github_username:  plugorgau
+
+# Build settings
+markdown: kramdown
