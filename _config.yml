@@ -9,4 +9,5 @@ twitter_username: plugorgau
 github_username:  plugorgau
 
 # Build settings
+baseurl: /website
 markdown: kramdown
