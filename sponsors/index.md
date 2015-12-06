@@ -30,4 +30,4 @@ permalink: /sponsors/
 
 ### Other Acknowledgements
 
-We're also received a ton of help and support over the years, so please visit our [Hall of Fame](/sponsors/hall-of-fame).
+We're also received a ton of help and support over the years, so please visit our [Hall of Fame]({{ site.baseurl }}/sponsors/hall-of-fame).

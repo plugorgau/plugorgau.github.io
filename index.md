@@ -11,8 +11,8 @@ Linux is a free computer operating system. It runs on a large variety of compute
 
 ### PLUG Facts
 
-*   Members: >85 people. [Join!](/membership)
+*   Members: >85 people. [Join!]({{ site.baseurl }}/membership)
 *   Mailing list: >340 people. [Chat!](http://lists.plug.org.au/mailman/listinfo/plug)
-*   IRC Channel: [#plug on irc.plug.org.au](/resources/irc)
+*   IRC Channel: [#plug on irc.plug.org.au]({{ site.baseurl }}/resources/irc)
 *   Most meetings are streamed live from [our Icecast server](http://54.251.52.124:8000/) (IPv4, IPv6)
-*   PLUG AV project live-streams our events: see our [recorded videos](/events/2012/), and [help out](/projects/video/)!
+*   PLUG AV project live-streams our events: see our [recorded videos]({{ site.baseurl }}/events/2012/), and [help out]({{ site.baseurl }}/projects/video/)!

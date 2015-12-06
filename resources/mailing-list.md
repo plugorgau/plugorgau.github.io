@@ -4,7 +4,7 @@ title: Mailing List
 permalink: /resources/mailing-list/
 ---
 
-The PLUG mailing list is one of the main points of interaction between PLUG members. (Another being our regular [meetings and events](/events).) The list is for discussion of everything Linux-related and can be a good way to get help for those having trouble with Linux. Off-topic messages are tolerated in small quantities but longer threads should be moved to the [off-topic list](#offtopic). We don't look fondly upon [flaming](http://foldoc.org/flame), [trolling](http://foldoc.org/troll) or [spamming](http://foldoc.org/spam). Announcements of PLUG events are posted to the [plug-announce](#announce) list, which automagically includes subscribers of the PLUG list. Linux.conf.au Bid discussions take place in the [userconf](#userconf) list, which automagically includes subscribers of the PLUG list. Some topics come up again and again. If you're new to the list you're encouraged to [search the archives](http://lists.plug.org.au/pipermail/) (or look at recent postings) in case your questions have already been answered.
+The PLUG mailing list is one of the main points of interaction between PLUG members. (Another being our regular [meetings and events]({{ site.baseurl }}/events).) The list is for discussion of everything Linux-related and can be a good way to get help for those having trouble with Linux. Off-topic messages are tolerated in small quantities but longer threads should be moved to the [off-topic list](#offtopic). We don't look fondly upon [flaming](http://foldoc.org/flame), [trolling](http://foldoc.org/troll) or [spamming](http://foldoc.org/spam). Announcements of PLUG events are posted to the [plug-announce](#announce) list, which automagically includes subscribers of the PLUG list. Linux.conf.au Bid discussions take place in the [userconf](#userconf) list, which automagically includes subscribers of the PLUG list. Some topics come up again and again. If you're new to the list you're encouraged to [search the archives](http://lists.plug.org.au/pipermail/) (or look at recent postings) in case your questions have already been answered.
 
 ### Using the list
 
@@ -12,7 +12,7 @@ To join the list, send a message to [plug-request@plug.org.au](mailto:plug-reque
 
 ### Problems with the list?
 
-If you are having trouble with the mailing list, contact [the PLUG list admins](/contact) at [plug-owner@plug.org.au](mailto:plug-owner@plug.org.au).
+If you are having trouble with the mailing list, contact [the PLUG list admins]({{ site.baseurl }}/contact) at [plug-owner@plug.org.au](mailto:plug-owner@plug.org.au).
 
 ### List archives
 
