@@ -6,25 +6,25 @@ permalink: /sponsors/
 
 [Amazon Web Services](http://http://aws.amazon.com//) has provided us with Server Cloud Hosting
 
-[![Amazon Web Services](/images/sponsors/aws.png)](http://aws.amazon.com/)
+[![Amazon Web Services]({{ site.baseurl }}/images/sponsors/aws.png)](http://aws.amazon.com/)
 
 * * *
 
 [**Lotterywest**](http://www.lotterywest.wa.gov.au/) is the state lottery, who provided Funding for PLUG projects.
 
-[![Lotterywest Supported](/images/sponsors/lotterywest.png)](http://www.lotterywest.wa.gov.au)
+[![Lotterywest Supported]({{ site.baseurl }}/images/sponsors/lotterywest.png)](http://www.lotterywest.wa.gov.au)
 
 * * *
 
 [**WAIA**](https://www.waia.asn.au/), Western Australian Internet Association provides support to all suppliers and users of online services in WA and to assist in the growth of the Internet industry generally.
 
-[![WAIA logo](/images/sponsors/waia.png)](https://www.waia.asn.au/)
+[![WAIA logo]({{ site.baseurl }}/images/sponsors/waia.png)](https://www.waia.asn.au/)
 
 * * *
 
 [**Hostaway**](http://www.hostaway.net.au/), a Perth-based ISP, generously provide their bandwidth and space for hosting PLUG servers.
 
-[![Hostaway logo](/images/sponsors/hostaway.png)](http://www.hostaway.net.au/)
+[![Hostaway logo]({{ site.baseurl }}/images/sponsors/hostaway.png)](http://www.hostaway.net.au/)
 
 * * *
 
