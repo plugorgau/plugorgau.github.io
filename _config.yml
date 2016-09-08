@@ -6,4 +6,5 @@ description: >
 url: "http://plug.org.au" # the base hostname & protocol for your site
 twitter_username: plugorgau
 github_username:  plugorgau
+baseurl: /website
 markdown: kramdown
