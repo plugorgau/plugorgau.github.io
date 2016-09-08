@@ -1,7 +1,7 @@
 ---
 layout: default
 title: projects
-permalink: /projects/
+permalink: /projects
 ---
 
 # Projects
