@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+permalink: /
 ---
 
 Linux is a free computer operating system. It runs on a large variety of computer hardware, and can be used for many purposes including desktop machines, small embedded systems and Internet servers. You can find more information about Linux itself on the [Linux International](http://www.li.org/) and the [Linux Australia](http://www.linux.org.au/linux) websites. The [Linux Documentation Project](http://mirror.linux.org.au/LDP/) is also a good place to find general information about Linux.
