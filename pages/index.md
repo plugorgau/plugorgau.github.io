@@ -18,5 +18,5 @@ We also provide a number of [resources!](http://plug.org.au/resources)
 *   Mailing list: >299 people. [Chat!](http://lists.plug.org.au/mailman/listinfo/plug)
 *   IRC Channel: [#plug on irc.plug.org.au]({{ site.baseurl }}/resources/irc)
 *   Mumble Server: [#plug on mumble.plug.org.au]({{ site.baseurl }}/resources/irc)
-*   PLUG AV Project streams our talks live https://www.youtube.com/user/PerthLinuxUsersGroup
-*   PLUG AV also records the talks at https://www.youtube.com/user/PerthLinuxUsersGroup
+*   PLUG AV Project streams our talks [live!](https://www.youtube.com/user/PerthLinuxUsersGroup)
+*   Our talks are recorded on [YouTube!](https://www.youtube.com/user/PerthLinuxUsersGroup)
