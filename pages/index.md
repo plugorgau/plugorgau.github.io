@@ -1,16 +1,9 @@
-The Perth Linux Users Group (PLUG) is Perth's only Linux users group.
+ ---
+ layout: default
+ title: Home
+ permalink: /
+ ---
 
-We are a not-for-profit association for professionals, students or hobbyists interested in Linux and Open Source software. Whilst we have many members in Perth, we welcome members from all over Western Australia.
-
-We meet each month in Perth and also organise a number of social events. PLUG streams its talks live online, and encourages all members to watch or chat on irc.
-
-PLUG helps Unix and Linux users all over Perth WA. http://plug.org.au/about
-
-We also provide a number of resources for members. http://plug.org.au/resources---
-layout: default
-title: Home
-permalink: /
----
 The Perth Linux Users Group (PLUG) is Perth's only Linux users group.
 
 We are a not-for-profit association for professionals, students or hobbyists interested in Linux and Open Source software. Whilst we have many members in Perth, we welcome members from all over Western Australia.
