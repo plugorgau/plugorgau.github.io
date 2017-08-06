@@ -15,7 +15,7 @@ We provide a range of wide range of [resources](http://plug.org.au/resources) to
 
 
 *   Members: >100 people. [Join]({{ site.baseurl }}/membership)
-*   Mailing list: >299 people. [Chat](http://lists.plug.org.au/mailman/listinfo/plug)
+*   Email Mailing list: >299 people. [Chat](http://lists.plug.org.au/mailman/listinfo/plug)
 *   IRC Channel: [#plug on irc.plug.org.au]({{ site.baseurl }}/resources/irc)
 *   Mumble Server: [#plug on mumble.plug.org.au]({{ site.baseurl }}/resources/irc)
 *   Our talks are stored on [YouTube](https://www.youtube.com/user/PerthLinuxUsersGroup)
