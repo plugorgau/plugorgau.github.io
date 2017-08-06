@@ -4,7 +4,17 @@ title: Home
 permalink: /
 ---
 
-Linux is a free computer operating system. It runs on a large variety of computer hardware, and can be used for many purposes including desktop machines, small embedded systems and Internet servers. You can find more information about Linux itself on the [Linux International](http://www.li.org/) and the [Linux Australia](http://www.linux.org.au/linux) websites. The [Linux Documentation Project](http://mirror.linux.org.au/LDP/) is also a good place to find general information about Linux.
+About PLUG
+
+The Perth Linux Users' Group (PLUG) is Perth's only Linux users group.
+We are a not-for-profit incorporated association for professionals, students or hobbyists interested in Linux and Open Source software. Whilst we have many members in Perth, we welcome members from all over Western Australia.
+
+We meet each month in Perth and also organise a number of social events throughout the year. PLUG streams its talks live online, and encourages all members to watch or chat on irc.
+
+PLUG aims to promote Linux and support the users of Linux in Western Australia. Read our about page for more info http://plug.org.au/about
+
+We also provide a number of resources for members, so check our website links above.
+
 
 ### What's on
 
