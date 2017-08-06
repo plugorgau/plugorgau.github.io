@@ -15,8 +15,13 @@ PLUG aims to promote Linux and support the users of Linux in Western Australia. 
 *   Advocate the use of Linux and Open Source software (where appropriate)
 *   Learn new skills from knowledgeable industry experts
 *   Make it easier for local users to get assistance
-*   Encourage our members to share their experience and expert knowledge
+*   Encourage our members to share their experiences and expert knowledge
 *   Make contacts within the industry
 *   Make new friends
 
 We also provide a number of [resources]({{ site.baseurl }}/resources/) for members and others interested in Linux and Open Source software.
+
+*   PLUG Incorporation number: A1007186U. 
+*   PLUG ABN: 58 233 849 580. 
+*   PLUG's IANA PEN: 37966.
+
