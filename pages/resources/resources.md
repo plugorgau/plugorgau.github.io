@@ -6,9 +6,10 @@ permalink: /resources/
 
 * Getting Linux in Perth
 * PLUG mailing lists
-* PLUG IRC channel
-* Various Linux related links
-* Video recordings of various plug meetings and events
-* Branding and Marketing from various plug meetings and events
-* Members Preferences and Settings (PLUG login required, ALL current members only)
-* Edit the website (Drupal - web editors only - ask committee for access and you'll get it)
+* IRC chat channel
+* Mumble voice chat channel
+* Video recordings on YouTube
+* Hands on workshops and tutorials
+* Open Source AV Project
+* Video Streaming and Recording for Linux.conf.au 2013 and 2014
+* Running and Assisting at Linux.conf.au 2003, 2013 and 2014
