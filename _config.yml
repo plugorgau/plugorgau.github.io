@@ -1,7 +1,5 @@
 # Site settings
 title: Perth Linux Users Group
-description: >
-  PLUG aims to promote and support Linux users of Perth Western Australia.
 url: "http://plug.org.au" # the base hostname & protocol for your site
 twitter_username: plugorgau
 github_username:  plugorgau
