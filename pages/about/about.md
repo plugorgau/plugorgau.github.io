@@ -13,11 +13,11 @@ We meet each month in Perth and also organise a number of social events througho
 PLUG aims to promote Linux and support the users of Linux in Western Australia. We also aim to:
 
 *   Advocate the use of Linux and Open Source software (where appropriate)
-*   Learn new skills from knowledgeable industry experts
+*   Learn new skills from knowledgeable industry experts and hobbyists
 *   Make it easier for local users to get assistance
 *   Encourage our members to share their experiences and expert knowledge
 *   Make contacts within the industry
-*   Make new friends
+*   Make new friends and social contacts
 
 PLUG runs a number of events througout the year, for example.
 
@@ -25,10 +25,10 @@ PLUG runs a number of events througout the year, for example.
 *   Workshops & Hack Days.
 *   InstallFests.
 *   Christmas Party & BBQ.
-*   Tour at a Data Centre and Railways
-*   Quiz Night with Prizes.
-*   AV & Systems Administration work
-*   Social in at various pub, cafes and restaurants.
+*   Tours of Linux users - Data Centre, Minature Railway
+*   Quiz ang Games Nights with Prizes.
+*   AV & Systems Administration work.
+*   Social events at various pubs, cafes and restaurants.
 
 We also provide a number of [resources]({{ site.baseurl }}/resources/) for members and others interested in Linux and Open Source software.
 
