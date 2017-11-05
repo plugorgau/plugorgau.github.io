@@ -4,14 +4,12 @@ title: Resources
 permalink: /resources/
 ---
 
-* Getting Linux in Perth
+* Regular [Social Events](http://plug.org.au/events/)
 * PLUG mailing lists
-* IRC chat channel
-* Mumble voice chat channel
-* Video recordings on YouTube
+* IRC and Mumble chat channel
+* Video recordings and streaming on [YouTube](https://www.youtube.com/user/PerthLinuxUsersGroup) 
 * Hands on workshops and tutorials
 * Open Source AV Project
-* Video Streaming and Recording for Linux.conf.au 2013 and 2014
-* Running and Assisting at Linux.conf.au 2003, 2013 and 2014
-* Social events and gatherings
+* Video and Audio Recording for Linux.conf.au 2013, 2014, 2015 and 2916
+* Running and Assisting at [Linux.conf.au](http://linux.org.au)Linux.conf.au 2003, 2013 and 2014
 * Collaboration with other organisations [Artifactory](http://artifactory.org.au/) and [SAGE-AU-WA](https://www.meetup.com/SAGE-AU-WA/)
