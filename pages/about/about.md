@@ -16,7 +16,7 @@ PLUG aims to promote Linux and support the users of Linux in Western Australia. 
 *   Learn new skills from knowledgeable industry experts and hobbyists
 *   Make it easier for local users to get assistance
 *   Encourage our members to share their experiences and expert knowledge
-*   Make contacts within the industry
+*   Make contacts within the local IT industry
 *   Make new friends and social contacts
 
 PLUG runs monthly events througout the year including:
