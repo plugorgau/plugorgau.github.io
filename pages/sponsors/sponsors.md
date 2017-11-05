@@ -6,7 +6,7 @@ permalink: /sponsors/
 
 [Spacecubed](http://http://www.spacecubed.com//) has provided us with a venue to host our events.
 
-[![Spacecubed]({{ site.baseurl }}/images/sponsors/spaceubed.png)](http://spacecubed.com/)
+[![Spacecubed]({{ site.baseurl }}/images/sponsors/spacecubed.jpeg)](http://spacecubed.com/)
 
 * * *
 
