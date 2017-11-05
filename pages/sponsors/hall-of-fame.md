@@ -17,3 +17,5 @@ Over the years PLUG has had many individuals and businesses help out and this pa
 *   Paul Arch for designing our membership cards and getting them printed
 *   Highgate Primary School, Christ Church Grammar School, UWA, the UCC and Central Chemical Consulting for our meeting places
 *   James Bromberger and Tony Breeds for the massive effort in running Linux.conf.au 2003 in Perth (plus all the volunteers who helped)
+*   Lotterywest is the state lottery, who provided funding for our AV hardware.
+*   Western Australian Internet Association provides support to all suppliers and users of online services in WA
