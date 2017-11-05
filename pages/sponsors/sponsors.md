@@ -6,10 +6,9 @@ permalink: /sponsors/
 
 [Spacecubed](http://http://www.spacecubed.com//) has provided us with a venue to host our events.
 
-[![Spacecubed]({{ site.baseurl }}/images/sponsors/spacecubed.jpeg)](http://spacecubed.com/)
+[![Spacecubed]({{ site.baseurl }}/images/sponsors/spacecubed.jpg)](http://spacecubed.com/)
 
 * * *
-
 
 [Amazon Web Services](http://http://aws.amazon.com//) has provided us with Server Cloud Hosting
 
@@ -17,7 +16,7 @@ permalink: /sponsors/
 
 * * *
 
-[**Hostaway**](http://www.hostaway.net.au/), a Perth-based ISP, generously provide their bandwidth and space for hosting PLUG servers.
+[**Hostaway**](http://www.hostaway.net.au/), a Perth-based ISP, generously providing Server Hosting.
 
 [![Hostaway logo]({{ site.baseurl }}/images/sponsors/hostaway.png)](http://www.hostaway.net.au/)
 
