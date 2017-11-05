@@ -19,6 +19,17 @@ PLUG aims to promote Linux and support the users of Linux in Western Australia. 
 *   Make contacts within the industry
 *   Make new friends
 
+PLUG runs a number of events througout the year, for example.
+
+*   Speakers and Lightning Talks.
+*   Workshops & Hack Days.
+*   InstallFests.
+*   Christmas Party & BBQ.
+*   Tour at a Data Centre and Railways
+*   Quiz Night with Prizes.
+*   AV & Systems Administration work
+*   Social in at various pub, cafes and restaurants.
+
 We also provide a number of [resources]({{ site.baseurl }}/resources/) for members and others interested in Linux and Open Source software.
 
 *   PLUG Incorporation number: A1007186U. 
