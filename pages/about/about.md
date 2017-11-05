@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-The _Perth Linux User's Group_ (PLUG) is one of the largest Linux groups in Australia and the only in Perth.
+The _Perth Linux User's Group_ (PLUG) is one of the largest Linux groups in Australia & Perth.
 
 We are a not-for-profit [incorporated association](http://www.search.asic.gov.au/cgi-bin/gns030c?state_number=A1007186U&juris=6&hdtext=WA&srchsrc=1) for professionals, students or hobbyists interested in Linux and Open Source software. Whilst most of our membership is from Perth, we welcome members from all over Western Australia and currently have members from Broome, Collie, Katanning and Kalgoorlie.
 
