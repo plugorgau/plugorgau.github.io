@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Membership & Donations
+title: Membership
 permalink: /membership/
 ---
 
@@ -21,4 +21,4 @@ PLUG welcomes donations for the same reasons as becoming a Member: to support it
 ## Methods of Payment
 
 1.  Direct Deposit to the PLUG bank account (BSB: 633-000, Acct: 122 346 679). Ensure you also follow up with an email to [committee@plug.org.au](mailto:committee@plug.org.au) with the date of the direct deposit, how much, and the reason (membership/donation). For membership we also require a contact number and address (requirement as a registered association).
-2.  Cash or cheque at a PLUG event
+2.  Cash at an event
