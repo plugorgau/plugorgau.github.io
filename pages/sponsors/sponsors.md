@@ -4,21 +4,16 @@ title: PLUG Sponsors
 permalink: /sponsors/
 ---
 
+[Spacecubed](http://http://www.spacecubed.com//) has provided us with a venue to host our events.
+
+[![Spacecubed]({{ site.baseurl }}/images/sponsors/spaceubed.png)](http://spacecubed.com/)
+
+* * *
+
+
 [Amazon Web Services](http://http://aws.amazon.com//) has provided us with Server Cloud Hosting
 
 [![Amazon Web Services]({{ site.baseurl }}/images/sponsors/aws.png)](http://aws.amazon.com/)
-
-* * *
-
-[**Lotterywest**](http://www.lotterywest.wa.gov.au/) is the state lottery, who provided Funding for PLUG projects.
-
-[![Lotterywest Supported]({{ site.baseurl }}/images/sponsors/lotterywest.png)](http://www.lotterywest.wa.gov.au)
-
-* * *
-
-[**WAIA**](https://www.waia.asn.au/), Western Australian Internet Association provides support to all suppliers and users of online services in WA and to assist in the growth of the Internet industry generally.
-
-[![WAIA logo]({{ site.baseurl }}/images/sponsors/waia.png)](https://www.waia.asn.au/)
 
 * * *
 
@@ -28,6 +23,6 @@ permalink: /sponsors/
 
 * * *
 
-### Other Acknowledgements
+### Past Sponsors
 
 We're also received a ton of help and support over the years, so please visit our [Hall of Fame]({{ site.baseurl }}/sponsors/hall-of-fame).
