@@ -5,3 +5,7 @@ twitter_username: plugorgau
 github_username:  plugorgau
 baseurl: "" # the subpath of your site, e.g. /blog
 markdown: kramdown
+
+# To explore for the future
+#plugins:
+#  - jekyll-redirect-from
