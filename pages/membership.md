@@ -10,9 +10,9 @@ We really appreciate people supporting PLUG by becoming a financial Member. Memb
 
 Membership costs are $20 per year, or $10 per year for students/concession.
 
-To join PLUG as a new Member, please complete the [signup form]({{ site.baseurl }}/ugmm/signup) and make a payment (see below).
+To join PLUG as a new Member, please complete the [signup form](https://plug.org.au/ugmm/signup) and make a payment (see below).
 
-Existing or past members can login to the [Membership section]({{ site.baseurl }}/ugmm/) to update contact details and check your membership status. If you have forgotten your password, use your email address to [reset your password]({{ site.baseurl }}/ugmm/resetpassword).
+Existing or past members can login to the [Membership section](https://plug.org.au/ugmm/) to update contact details and check your membership status. If you have forgotten your password, use your email address to [reset your password](https://plug.org.au/ugmm/resetpassword).
 
 ## Donations
 
