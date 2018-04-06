@@ -69,3 +69,11 @@ Malroy
 **Treasurer**: Nick Bannon  
 **Secretary:** Peter Lyons  
 **Ordinary Committee Members**: Craig Inches, Alastair Irvine, Luke John
+
+## 2011 Committee
+**President**: James Bromberger  
+**Vice President**: Nick Bannon  
+**Treasurer**: Mark Gaynor  
+**Acting Treasurer**: Jason Nicholls  
+**Secretary**: Peter Lyons  
+**Ordinary Committee Member**: Patrick Coleman, Alastair Irvine, Tim White, Daniel Harmsworth
