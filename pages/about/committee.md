@@ -15,17 +15,21 @@ Also to make a line break after each entry make sure there are two spaces at the
 ## 2018 Committee
 
 ### President
-Alice
+To be confirmed
+
 ### Vice President
-Bob
+To be confirmed
+
 ### Secretary
-Eve  
+To be confirmed
+
 ### Treasurer
-Malroy
+To be confirmed
+
 ### Ordinary Committee Members:
- * Agent Smith  
- * Agent Cain
- * Agent Jones
+ * To be confirmed
+ * To be confirmed
+ * To be confirmed 
 
 ## 2017 Committee
 **President**: Benjamin Arntzen  
