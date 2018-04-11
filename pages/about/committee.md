@@ -1,83 +1,18 @@
 ---
 layout: page
 title: Committee
-permalink: /about/committee
+permalink: /about/committee/
 ---
 
 The PLUG committee consists of seven members who are elected annually during the Annual General Meeting held at the beginning of each calendar year.
 
-{% comment %}
-I think that the current committee should be expanded (i.e. have heading for each member) while previous committees should be compact (i.e. just make their title in bold).
-
-Also to make a line break after each entry make sure there are two spaces at the end of the line.
-{% endcomment %}
-
-## 2018 Committee
-
-### President
-To be confirmed
-
-### Vice President
-To be confirmed
-
-### Secretary
-To be confirmed
-
-### Treasurer
-To be confirmed
-
-### Ordinary Committee Members:
- * To be confirmed
- * To be confirmed
- * To be confirmed 
-
-## 2017 Committee
-**President**: Benjamin Arntzen  
-**Vice President**: Paul Del Fante  
-**Secretary**: Nick Bannon  
-**Treasurer**: Peter Lyons  
-**Ordinary Committee Members**: Margaret Wood, Dean Bergin, Michael Van Delft  
-
-## 2016 Committee
-
-**President**: William Termini  
-**Vice President**: Paul Del Fante  
-**Secretary**: Michael Van Delft  
-**Treasurer**: Peter Lyons  
-**Ordinary Committee Members**: Margaret Wood  
-
-## 2015 Committee
-**President**: Michael Van Delft  
-**Vice President**: Andrew Cooks  
-**Secretary**: Paul Del Fante  
-**Treasurer**: Peter Lyons  
-**Ordinary Committee Members**: James Henstridge,  Jason Nicholls, ~Delan Azabani~, ~Luke Mercuri~  
-
-## 2014 Committee
-**President**: Euan de Kock  
-**Vice President**: Nick Bannon  
-**Treasurer**: Paul Del Fante  
-**Secretary**: Peter Lyons  
-**Ordinary Committee Members**: Jason Nicholls, Andrew Cooks, James Henstridge  
-
-## 2013 Committee
-**President**: Euan de Kock  
-**Vice President**: Nick Bannon  
-**Treasurer**: Paul Del Fante  
-**Secretary**: Peter Lyons  
-**Ordinary Committee Members**: Alastair Irvine, Luke John, Jason Nicholls  
-
-## 2012 Committee
-**President**: James Bromberger  
-**Vice President**: Euan de Kock  
-**Treasurer**: Nick Bannon  
-**Secretary:** Peter Lyons  
-**Ordinary Committee Members**: Craig Inches, Alastair Irvine, Luke John
-
-## 2011 Committee
-**President**: James Bromberger  
-**Vice President**: Nick Bannon  
-**Treasurer**: Mark Gaynor  
-**Acting Treasurer**: Jason Nicholls  
-**Secretary**: Peter Lyons  
-**Ordinary Committee Member**: Patrick Coleman, Alastair Irvine, Tim White, Daniel Harmsworth
+Year | Chairperson (President) | Vice-Chairperson (Vice-President) | Treasurer | **Secretary** | Committee Members (OCMs)
+---- | ----------------------- | --------------------- | --------- | ------------- | ------------------------
+2018 | Benjamin Arntzen  | Nick Bannon         | Peter Lyons | Paul Del Fante | Margaret Wood, Dean Bergin, James Henstridge
+2017 | Benjamin Arntzen  | Paul Del Fante      | Peter Lyons | Nick Bannon | Margaret Wood, Dean Bergin, Michael Van Delft
+2016 | William Termini   | Paul Del Fante      | Michael Van Delft | Peter Lyons | Margaret Wood
+2015 | Michael Van Delft | Andrew Cooks        | Peter Lyons | Paul Del Fante | James Henstridge,  Jason Nicholls, ~Delan Azabani~, ~Luke Mercuri~
+2014 | Euan de Kock      | Nick Bannon         | Paul Del Fante | Peter Lyons | Jason Nicholls, Andrew Cooks, James Henstridge
+2013 | Euan de Kock      | Nick Bannon         | Paul Del Fante | Peter Lyons | Alastair Irvine, Luke John, Jason Nicholls
+2012 | James Bromberger  | Euan de Kock        | Nick Bannon | Peter Lyons | Craig Inches, Alastair Irvine, Luke John
+2011 | James Bromberger  | Nick Bannon         | Mark Gaynor, Jason Nicholls (Acting) | Peter Lyons | Patrick Coleman, Alastair Irvine, Tim White, Daniel Harmsworth
