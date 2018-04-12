@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Documents
-permalink: /about/documents
+permalink: /about/documents/
 ---
 
 The attached files are our significant registrations.

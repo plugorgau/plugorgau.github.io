@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Other Linux-related groups
-permalink: /about/related-groups
+permalink: /about/related-groups/
 ---
 
 PLUG is affiliated with [Linux Australia](https://linux.org.au/), who support the Australian Linux community in a number of ways, including helping to organise [linux.conf.au](https://linux.conf.au), Australia's national Linux conference.
