@@ -3,8 +3,6 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
-Benjamin was testing here v3
-
 The best way to contact PLUG is by e-mail. If you are asking a Linux related question, you should subscribe to the [PLUG email mailing list](http://lists.plug.org.au/mailman/listinfo/plug) (free) and ask your question to the general members; you're welcome to unsubscribe at any time should you wish to.
 
 You can send the PLUG Committee an email [committee@plug.org.au](mailto:committee@plug.org.au). The committee is responsible for the administration and website of the association.
