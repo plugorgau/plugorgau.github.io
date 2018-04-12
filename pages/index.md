@@ -5,7 +5,7 @@ permalink: /
 ---
 Perth's only Perth Linux Users Group.
 
-We are a not-for-profit association for anyone interested in Unix, Linux, Free Software, Open Source software & Open Technology. We have many members in Perth and all over Western Australia. [read more..]({{ site.baseurl }}/about)
+We are a not-for-profit association for anyone interested in Unix, Linux, Free Software, Open Source software & Open Technology. We have many members in Perth and all over Western Australia.
 
 Holding regular talks, workshops & social events, check out our [events calendar]({{ site.baseurl }}/events)
 
