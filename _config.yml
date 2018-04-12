@@ -3,7 +3,7 @@ title: Perth Linux Users Group
 url: "http://plug.org.au" # the base hostname & protocol for your site
 twitter_username: plugorgau
 github_username:  plugorgau
-baseurl: "/test" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 markdown: kramdown
 
 # To explore for the future
