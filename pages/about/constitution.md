@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Constitution
-permalink: /about/constitution
+permalink: /about/constitution/
 ---
 
 Like all associations in Western Australia, PLUG is required to have a constitution. Here is a partial archive of the revisions of the consitution.
