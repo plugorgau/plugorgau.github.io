@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Events
-permalink: /events
+permalink: /events/
 ---
 
 We use the Google calendar (below) and [meetup](https://www.meetup.com/Perth-Linux-Users-Group-PLUG) to plan our events please look at those for specific events and details.

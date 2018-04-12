@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-permalink: /projects
+permalink: /projects/
 ---
 
 Occasionally PLUG undertakes a project for members. Members decide what projects they want to investigate and work on. Project funding comes from PLUG, Linux Australia and other organisations.
