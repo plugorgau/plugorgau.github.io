@@ -24,4 +24,4 @@ Year | Chairperson (President) | Vice-Chairperson (Vice-President) | Treasurer |
 2005 | Cameron Patrick   | Marcus Giles        | Mark Gaynor | Bernard Blackham | Tim White, Ryan Smith, Greg Macham
 2004 | Bernard Blackham  | Leon Brooks         | Mark Gaynor | Clare Johnstone | Adrian Woodley, Cameron Patrick
 2003 | Tony Breeds-Taurima | Bernard Blackham  | Mark Tearle | Mark Gaynor | Leon Brooks, Clare Johnstone
-2002 | Matt Kemner       | Jason Nicholls      | Tony Breeds-Taurima | Tony Breeds-Taurima | James Bromberger
+2002 | Matt Kemner       | Jason Nicholls      | Tony Breeds-Taurima | Tony Breeds-Taurima | Daniel Beard, James Bromberger
