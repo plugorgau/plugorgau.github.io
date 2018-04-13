@@ -15,5 +15,5 @@ Minutes for the Perth Linux User Group AGMs:
 * [2005]({{ site.baseurl }}/events/AGM/2005)
 * [2004]({{ site.baseurl }}/events/AGM/2004)
 * [2003]({{ site.baseurl }}/events/AGM/2003)
-* [2002]({{ site.baseurl }}/events/AGM/2001)
+* [2002]({{ site.baseurl }}/events/AGM/2002)
 
