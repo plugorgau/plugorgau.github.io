@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Events Archive
+title: Committee Archive
 permalink: /events/committee/
 ---
 
