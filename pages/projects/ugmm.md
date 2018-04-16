@@ -1,7 +1,7 @@
 ---
 layout: page
 title: User Group membership manager
-permalink: /projects/ugmm
+permalink: /projects/ugmm/
 ---
 
 This project seeks to lash together various projects to implement a stack of software to help manage the membership requirements of user groups.
