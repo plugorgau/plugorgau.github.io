@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Video Streaming: Architectural Overview"
-permalink: /projects/video/overview
+permalink: /projects/video/overview/
 ---
 
 The goal is to produce a stream of video, with vision and audio mixed in real time, with live overlays and titling, outputting to an Icecast server (or a tree of Icecast relay servers).

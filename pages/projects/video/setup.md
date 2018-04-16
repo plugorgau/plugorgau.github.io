@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Video Setup Procedure
-permalink: /projects/video/setup
+permalink: /projects/video/setup/
 ---
 
 This procedure is to take you from packed up boxes to a live stream. Follow all the steps, none of them are optional unless marked.

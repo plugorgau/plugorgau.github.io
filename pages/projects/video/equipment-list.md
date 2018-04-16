@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Physical Equipment
-permalink: /projects/video/equipment-list
+permalink: /projects/video/equipment-list/
 ---
 
 AV1: screen grabber, intel, audio out not working  
