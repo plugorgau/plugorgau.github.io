@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Video Streaming Project
-permalink: /projects/video
+permalink: /projects/video/
 ---
 
 The Video Streaming Project is an effort to build a multi-source streaming video solution, suitable for recording lecture style presentations, using Open Source Software and commodity hardware.
