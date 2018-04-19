@@ -4,8 +4,8 @@ title: Resources
 permalink: /resources/
 ---
 
-* Regular [Social Events](http://plug.org.au/events/)
-* [Mailing lists](http://lists.plug.org.au/mailman/listinfo/plug) over 299 ppl.
+* Regular [social events]({{ site.baseurl }}/events)
+* [Mailing lists]({{ site.baseurl }}/resources/mailing-list/) - over 350 people.
 * IRC Chat: [#plug on irc.plug.org.au]({{ site.baseurl }}/resources/irc)
   * We run an IRC channel on [UNIIRC](https://www.uniirc.com/).
   * To join us on IRC connect to the server irc.plug.org.au.
