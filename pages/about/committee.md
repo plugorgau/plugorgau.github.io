@@ -15,7 +15,7 @@ Year | Chairperson (President) | Vice-Chairperson (Vice-President) | Treasurer |
 2014 | Euan de Kock      | Nick Bannon         | Paul Del Fante | Peter Lyons | Jason Nicholls, Andrew Cooks, James Henstridge
 2013 | Euan de Kock      | Nick Bannon         | Paul Del Fante | Peter Lyons | Alastair Irvine, Luke John, Jason Nicholls
 2012 | James Bromberger  | Euan de Kock        | Nick Bannon | Peter Lyons | Craig Inches, Alastair Irvine, Luke John
-2011 | James Bromberger  | Nick Bannon         | Mark Gaynor, Jason Nicholls (Acting) | Peter Lyons | Patrick Coleman, Alastair Irvine, Tim White, Daniel Harmsworth
+2011 | James Bromberger  | Nick Bannon         | Mark Gaynor / Jason Nicholls | Peter Lyons | Patrick Coleman, Alastair Irvine, Tim White, Daniel Harmsworth
 2010 | Tim White         | Nick Bannon         | Mark Gaynor | Peter Lyons | Patrick Coleman, Alastair Irvine
 2009 | Patrick Coleman   | Adon Metcalfe       | Mark Gaynor | Nick Sanford | Tim White, Phillip Verschure, David Lloyd, Jason Nicholls, Peter Lyons
 2008 | Patrick Coleman   | Adon Metcalfe       | Mark Gaynor | Ian Kent | Jason Nicholls, Adrian Woodley, Ritchie Young
@@ -25,3 +25,4 @@ Year | Chairperson (President) | Vice-Chairperson (Vice-President) | Treasurer |
 2004 | Bernard Blackham  | Leon Brooks         | Mark Gaynor | Clare Johnstone | Adrian Woodley, Cameron Patrick
 2003 | Tony Breeds-Taurima | Bernard Blackham  | Mark Tearle | Mark Gaynor | Leon Brooks, Clare Johnstone
 2002 | Matt Kemner       | Jason Nicholls      | Tony Breeds-Taurima | Tony Breeds-Taurima | Daniel Beard, James Bromberger
+2001 | Matt Kemner       | Ian Kent            | David Campbell | Tony Breeds-Taurima |
