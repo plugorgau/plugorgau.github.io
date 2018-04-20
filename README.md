@@ -26,4 +26,4 @@ useful.
 
 #### Running Locally
 
-Run jekyll with `jekyll serve --baseurl`.
+Run jekyll with `jekyll serve`.
