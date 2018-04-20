@@ -15,7 +15,9 @@ Deadline for fresh entries was Friday 1 July 2011.
 Peter Entries:
 
 <img src='{{ site.baseurl }}/media/pictures/01-plug_basic_sml.png' width='400px'>
+
 <img src='{{ site.baseurl }}/media/pictures/04-plug_networking_sml.png' width='400px'>
+
 <img src='{{ site.baseurl }}/media/pictures/06-plug_web_sml.png' width='400px'>
 
 
