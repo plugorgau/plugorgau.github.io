@@ -20,7 +20,7 @@ Peter Entries:
 
 
 Jason Nicholls entry:
-<img src='{{ site.baseurl }}/plug-logo-1-jason.png' width='400px'>
+<img src='{{ site.baseurl }}/media/pictures/plug-logo-1-jason.png' width='400px'>
 (1st attempt, basic text and colour. Vertical format also available)
-<img src='{{ site.baseurl }}/plug-logo-2-v1.png'>
+<img src='{{ site.baseurl }}/media/pictures/plug-logo-2-v1.png'>
 (2nd attempt incorporating sWAn from Peter)
