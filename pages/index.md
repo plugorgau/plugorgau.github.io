@@ -15,8 +15,8 @@ We provide a range of wide range of [resources]({{ site.baseurl }}/resources) to
 
 
 *   Members: 100 people. [Join]({{ site.baseurl }}/membership)
-*   Mailing list: 299 people. [Chat](http://lists.plug.org.au/mailman/listinfo/plug)
+*   Mailing list: 350+ people. [Chat](http://lists.plug.org.au/mailman/listinfo/plug)
 *   IRC Chat: [#plug on irc.plug.org.au]({{ site.baseurl }}/resources/irc)
-*   Mumble Chat: [#plug on mumble.plug.org.au]({{ site.baseurl }}/resources/irc)
+*   [Mumble](https://www.mumble.info/) Chat: #plug on mumble.plug.org.au
 *   Our talks on [YouTube](https://www.youtube.com/user/PerthLinuxUsersGroup)
 *   PLUG AV streams live [Watch now](https://www.youtube.com/user/PerthLinuxUsersGroup)

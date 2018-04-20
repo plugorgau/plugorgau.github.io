@@ -14,13 +14,19 @@ Deadline for fresh entries was Friday 1 July 2011.
 
 Peter Entries:
 
-<img src='{{ site.baseurl }}/01-plug_basic_sml.png' width='400px'>
-<img src='{{ site.baseurl }}/04-plug_networking_sml.png' width='400px'>
-<img src='{{ site.baseurl }}/06-plug_web_sml.png' width='400px'>
+<img src='{{ site.baseurl }}/media/pictures/01-plug_basic_sml.png' width='400px'>
+
+<img src='{{ site.baseurl }}/media/pictures/04-plug_networking_sml.png' width='400px'>
+
+<img src='{{ site.baseurl }}/media/pictures/06-plug_web_sml.png' width='400px'>
 
 
 Jason Nicholls entry:
-<img src='{{ site.baseurl }}/plug-logo-1-jason.png' width='400px'>
+
+<img src='{{ site.baseurl }}/media/pictures/plug-logo-1-jason.png' width='400px'>
+
 (1st attempt, basic text and colour. Vertical format also available)
-<img src='{{ site.baseurl }}/plug-logo-2-v1.png'>
+
+<img src='{{ site.baseurl }}/media/pictures/plug-logo-2-v1.png'>
+
 (2nd attempt incorporating sWAn from Peter)
