@@ -12,4 +12,5 @@ Occasionally PLUG undertakes a project for members. Members decide what projects
 
 ## Past Projects
  * [Linux.conf.au 2014](https://web.archive.org/web/20150317044216/http://lca2014.linux.org.au/)
+ * [PLUG Logo Competition 2011]({{ site.baseurl }}/projects/logo-competition)
  * [Linux.conf.au 2003](https://linux.org.au/conf/2003/)
