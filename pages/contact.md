@@ -11,4 +11,3 @@ You can send the PLUG Committee an email [committee@plug.org.au](mailto:committe
 *   PLUG Incorporation number: A1007186U.
 *   PLUG ABN: 58 233 849 580.
 *   PLUG's IANA PEN: 37966.
-*   Ivan was here
