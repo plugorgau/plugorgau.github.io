@@ -27,3 +27,5 @@ useful.
 #### Running Locally
 
 Run jekyll with `jekyll serve`.
+
+If you are on a PLUG dev box and want to access the site publicly, run ` jekyll serve --host 0.0.0.0 `
