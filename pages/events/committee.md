@@ -6,6 +6,8 @@ permalink: /events/committee/
 
 Minutes for the Perth Linux User Group AGMs:
 
+* [2018]({{ site.baseurl }}/events/AGM/2018)
+
 * [2011]({{ site.baseurl }}/events/AGM/2011)
 * [2010]({{ site.baseurl }}/events/AGM/2010)
 * [2009]({{ site.baseurl }}/events/AGM/2009)
