@@ -7,7 +7,7 @@ The best way to contact PLUG is by e-mail. If you are asking a Linux related que
 
 You can send the PLUG Committee an email [committee@plug.org.au](mailto:committee@plug.org.au). The committee is responsible for the administration and website of the association.
 
-*   PLUG's postal address is: PO Box 2049, Yokine, Western Australia 6060, Australia.
+*   Address: We normally hold our in person meetings at 45 st georges terrace perth wa 6000
 *   PLUG Incorporation number: A1007186U.
 *   PLUG ABN: 58 233 849 580.
 *   PLUG's IANA PEN: 37966.
