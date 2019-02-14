@@ -14,8 +14,9 @@ permalink: /resources/
 * Video recordings and streaming on [YouTube](https://www.youtube.com/user/PerthLinuxUsersGroup) 
 * Sub Committee - AV Project
 * Video and Audio Recording for [Linux.conf.au 2013, 2014, 2015 and 2016](http://linux.org.au/lca)
-* Running and assisting at [Linux.conf.au 2003 and 2014](http://linux.org.au/lca)
+* Running and assisting at [Linux.conf.au 2003, 2013, 2014 2015](http://linux.org.au/lca)
 * Collaboration with other organisations including:
   * [Artifactory](http://artifactory.org.au/)
   * [Information Technology Professionals Association (ITPA)](https://www.meetup.com/SAGE-AU-WA/)
   * Other [Linux-related groups]({{ site.baseurl }}/about/related-groups/)
+ * Coding projects on [Github](https://github.com/plugorgau)
