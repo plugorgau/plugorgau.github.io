@@ -8,13 +8,13 @@ The PLUG committee consists of seven members who are elected annually during the
 
 Year | Chairperson (President) | Vice-Chairperson (Vice-President) | Treasurer | Secretary | Committee Members (OCMs)
 ---- | ----------------------- | --------------------- | --------- | ------------- | ------------------------
-2019 | Benjamin Arntzen  | Nick Bannon         | Peter Lyons | Paul Del Fante | Margaret Wood, James Henstridge, Michel Nzikou
-2018 | Benjamin Arntzen  | Nick Bannon         | Peter Lyons | Paul Del Fante | Margaret Wood, Dean Bergin, James Henstridge
-2017 | Benjamin Arntzen  | Paul Del Fante      | Peter Lyons | Nick Bannon | Margaret Wood, Dean Bergin, Michael Van Delft
-2016 | William Termini   | Paul Del Fante      | Michael Van Delft | Peter Lyons | Margaret Wood
-2015 | Michael Van Delft | Andrew Cooks        | Peter Lyons | Paul Del Fante | James Henstridge,  Jason Nicholls, ~Delan Azabani~, ~Luke Mercuri~
-2014 | Euan de Kock      | Nick Bannon         | Paul Del Fante | Peter Lyons | Jason Nicholls, Andrew Cooks, James Henstridge
-2013 | Euan de Kock      | Nick Bannon         | Paul Del Fante | Peter Lyons | Alastair Irvine, Luke John, Jason Nicholls
+2019 | Benjamin Arntzen  | Nick Bannon         | Peter Lyons | Paul Del       | Margaret Wood, James Henstridge, Michel Nzikou
+2018 | Benjamin Arntzen  | Nick Bannon         | Peter Lyons | Paul Del       | Margaret Wood, Dean Bergin, James Henstridge
+2017 | Benjamin Arntzen  | Paul Del            | Peter Lyons | Nick Bannon | Margaret Wood, Dean Bergin, Michael Van Delft
+2016 | William Termini   | Paul Del            | Michael Van Delft | Peter Lyons | Margaret Wood
+2015 | Michael Van Delft | Andrew Cooks        | Peter Lyons | Paul Del       | James Henstridge,  Jason Nicholls, ~Delan Azabani~, ~Luke Mercuri~
+2014 | Euan de Kock      | Nick Bannon         | Paul Del    | Peter Lyons | Jason Nicholls, Andrew Cooks, James Henstridge
+2013 | Euan de Kock      | Nick Bannon         | Paul Del    | Peter Lyons | Alastair Irvine, Luke John, Jason Nicholls
 2012 | James Bromberger  | Euan de Kock        | Nick Bannon | Peter Lyons | Craig Inches, Alastair Irvine, Luke John
 2011 | James Bromberger  | Nick Bannon         | Mark Gaynor / Jason Nicholls | Peter Lyons | Patrick Coleman, Alastair Irvine, Tim White, Daniel Harmsworth
 2010 | Tim White         | Nick Bannon         | Mark Gaynor | Peter Lyons | Patrick Coleman, Alastair Irvine
