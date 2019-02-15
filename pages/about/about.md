@@ -24,7 +24,7 @@ PLUG aims to assist and help people in Perth and Western Australia with the foll
 *   Encourage our members to share their experiences and expert knowledge
 *   Make contacts within the local IT industry
 *   Make new friends and business contacts.
-*   Enabling novice's to connect with technical experts.
+*   Enable novices to connect with technical experts.
 
 PLUG runs monthly events throughout the year including:
 *   Speakers and Lightning Talks
