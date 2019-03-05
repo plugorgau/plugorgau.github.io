@@ -25,7 +25,7 @@ PLUG aims to assist and help people in Perth and Western Australia:
 *   ...make new friends and business contacts
 *   ...enable novices to connect with technical experts
 
-PLUG runs monthly events throughout the year including:
+We run monthly events throughout the year including:
 *   Speakers and Lightning Talks
 *   Workshops & Hack Days
 *   InstallFests
@@ -34,3 +34,8 @@ PLUG runs monthly events throughout the year including:
 *   Quiz and games nights with prizes
 *   Plug AV & Systems Administration work
 *   Social events at various pubs, cafes and restaurants
+
+Our members have brought our region's premier [Linux, Free Software and Open source
+conference](https://linux.conf.au/) :
+* to WA in 2003 and 2014, see [https://linux.org.au/linux-conf-au/](https://linux.org.au/linux-conf-au/) ; and
+* assisted in the preparation, running and audio/video recording of many others.

@@ -11,10 +11,7 @@ permalink: /resources/
   * To join us on IRC connect to the server irc.plug.org.au.
   * Then join the channel #plug
 * [Mumble](https://www.mumble.info/) Chat: #plug on mumble.plug.org.au
-* Video recordings and streaming on [YouTube](https://www.youtube.com/user/PerthLinuxUsersGroup) 
-* Sub Committee - AV Project
-* Video and Audio Recording for [Linux.conf.au 2013, 2014, 2015 and 2016](http://linux.org.au/lca)
-* Running and assisting at [Linux.conf.au 2003, 2013, 2014 2015](http://linux.org.au/lca)
+* Video recordings and streaming on [YouTube](https://www.youtube.com/user/PerthLinuxUsersGroup) care of our own [AV project]({{ site.baseurl }}/resources/mailing-list/#av)
 * Collaboration with other organisations including:
   * [Artifactory](http://artifactory.org.au/)
   * [Information Technology Professionals Association (ITPA)](https://www.meetup.com/SAGE-AU-WA/)

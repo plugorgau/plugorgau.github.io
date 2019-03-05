@@ -26,6 +26,12 @@ The plug-announce list is a low-traffic moderated mailing list, used for announc
 
 We have a list for employment opportunities for those skilled in Linux and Open Source technologies - and of course for recruiters trying to find those people. Please keep descriptions clear, and do not post the same job more than once per month. You can [subscribe or unsubscribe](http://lists.plug.org.au/mailman/listinfo/jobs/) over the web.
 
+## <a name="admin">The Admin list</a>
+* [Admin subcommittee](http://lists.plug.org.au/mailman/listinfo/admin) - Running PLUG's own online infrastructure
+
+## <a name="av">The AV list</a>
+* [AV subcommittee](http://lists.plug.org.au/mailman/listinfo/av) - Audio/Video recording project
+
 ## <a name="offtopic">The off-topic list</a>
 
 We have a separate mailing list for PLUG members to use for discussions which are not necessarily of interest to the rest of PLUG. It can be a place to rant and rave, debate pedantic points of language, discuss non-Linux-related news or even argue about the merits of capitalism. Generally, conversations which drift too far from any relevance to Linux move to the off-topic list when people start complaining. To join it, send an e-mail to [off-topic-request@plug.org.au](mailto:off-topic-request@plug.org.au) containing the word <tt>subscribe</tt> in the subject or body of the message. To leave, send a message containing <tt>unsubscribe</tt> to the same address. You can post to it by sending messages to [off-topic@plug.org.au](mailto:off-topic@plug.org.au). You can also [subscribe or unsubscribe over the web](http://lists.plug.org.au/mailman/listinfo/off-topic). There is also [an archive](http://old.plug.org.au/archives/list/plug-off-topic.html) of all the past posts to the off-topic list.
