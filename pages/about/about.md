@@ -17,14 +17,13 @@ Catching up monthly in Perth and running a number of social events throughout th
 PLUG streams its monthly meetings live online, and encourages regional members to get together to watch the stream and participate online via _IRC_ in real time.
 Providing a number of [resources for members and the community.]({{ site.baseurl }}/resources/)
 
-PLUG aims to assist and help people in Perth and Western Australia with the following
-*   Advocate the use of Unix, Linux, Free Software, Open Source software & Open Technology.
-*   Learn new skills from knowledgeable industry experts and hobbyists
-*   Make it easier for people in Perth & WA to get help.
-*   Encourage our members to share their experiences and expert knowledge
-*   Make contacts within the local IT industry
-*   Make new friends and business contacts.
-*   Enable novices to connect with technical experts.
+PLUG aims to assist and help people in Perth and Western Australia:
+*   ...advocate the use of Unix, Linux, Free Software, Open Source software & Open Technology
+*   ...learn new skills from knowledgeable industry experts and hobbyists
+*   ...encourage our members to share their experiences and expert knowledge
+*   ...make contacts within the local IT industry
+*   ...make new friends and business contacts
+*   ...enable novices to connect with technical experts
 
 PLUG runs monthly events throughout the year including:
 *   Speakers and Lightning Talks

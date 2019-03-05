@@ -19,4 +19,4 @@ We provide a wide range of [resources]({{ site.baseurl }}/resources) to help & a
 *   Chat with us on IRC: [#plug on irc.plug.org.au]({{ site.baseurl }}/resources/irc)
 *   [Mumble](https://www.mumble.info/) Chat: #plug on mumble.plug.org.au
 *   [Our talks on YouTube](https://www.youtube.com/user/PerthLinuxUsersGroup)
-*   [Watch our live video streams](https://www.youtube.com/user/PerthLinuxUsersGroup)
+*   Watch our live video streams on [icecast](http://icecast.plug.org.au:8000/) or [YouTube](https://www.youtube.com/user/PerthLinuxUsersGroup)
