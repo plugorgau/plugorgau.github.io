@@ -24,8 +24,8 @@ Minutes for the Perth Linux User Group AGMs:
 
 Minutes for PLUG committee meetings:
 
-{% for post in site.posts %}
-{% if post.categories contains "minutes" %}
+{% for post in site.posts -%}
+{% if post.categories contains "minutes" -%}
 * [{{ post.title }}]({{ post.url }})
-{% endif %}
+{% endif -%}
 {% endfor %}
