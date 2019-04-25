@@ -9,3 +9,12 @@ markdown: kramdown
 # To explore for the future
 #plugins:
 #  - jekyll-redirect-from
+
+defaults:
+  - scope:
+      path: "_posts/minutes"
+      type: "posts"
+    values:
+      category: "minutes"
+      layout: "page"
+      permalink: "/events/committee/:year/:month-:day/"
