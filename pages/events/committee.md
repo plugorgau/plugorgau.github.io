@@ -22,3 +22,10 @@ Minutes for the Perth Linux User Group AGMs:
 * [2003]({{ site.baseurl }}/events/AGM/2003)
 * [2002]({{ site.baseurl }}/events/AGM/2002)
 
+Minutes for PLUG committee meetings:
+
+{% for post in site.posts -%}
+{% if post.categories contains "minutes" -%}
+* [{{ post.title }}]({{ post.url }})
+{% endif -%}
+{% endfor %}
