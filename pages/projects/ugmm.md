@@ -6,7 +6,7 @@ permalink: /projects/ugmm/
 
 This project seeks to lash together various projects to implement a stack of software to help manage the membership requirements of user groups.
 
-See the [mailing list](http://lists.plug.org.au/mailman/listinfo/ugmm).
+See the [mailing list](https://lists.plug.org.au/mailman/listinfo/ugmm).
 
 Details of basic implementation currently.
 
@@ -131,7 +131,7 @@ The shadowExpire attribute is being used to lockout the user when their account 
 
 Shell Authentication off LDAP
 
-We are using the nss-pam-ldap package from Arthur de Jong (http://arthurdejong.org/nss-pam-ldapd/). The 0.7.13 version in Ubuntu and Debian both contain a bug that we discovered that has since been fixed. For this reason we have patched the package and forced dpkg to hold it so it doesn't get upgraded accidently.
+We are using the nss-pam-ldap package from Arthur de Jong (https://arthurdejong.org/nss-pam-ldapd/). The 0.7.13 version in Ubuntu and Debian both contain a bug that we discovered that has since been fixed. For this reason we have patched the package and forced dpkg to hold it so it doesn't get upgraded accidently.
 
 The main config file for all this is /etc/nslcd.conf, most of which is very easy to figure out.
 The magic comes from the filter lines, and the pam_authz_search. Both are LDAP searchs that are used to filter the responses from the database.

@@ -5,7 +5,7 @@ title: PLUG Shell Account
 ---
 <em>NOTE</em>: as of 2012 the shell server died and the committee has decided to no longer provide a shell service as a result.
 
-PLUG <a href='http://www.plug.org.au/membership/'>financial members</a> are entitled to a shell account on our shell server <tt>shameless</tt> .
+PLUG <a href='https://www.plug.org.au/membership/'>financial members</a> are entitled to a shell account on our shell server <tt>shameless</tt> .
 
 <h3>Conditions of Use</h3>
 

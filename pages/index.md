@@ -11,7 +11,7 @@ Holding regular talks, workshops & social events, check out our calendar below.<
 We provide a wide range of [resources]({{ site.baseurl }}/resources) to help & assist.
 
 [Over 300+ members to connect with, click here to sign up]({{ site.baseurl }}/membership)<br />
-[Our Mailing list is free to join and connect with our members](http://lists.plug.org.au/mailman/listinfo/plug)
+[Our Mailing list is free to join and connect with our members](https://lists.plug.org.au/mailman/listinfo/plug)
 
 <iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=200&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=president%40plug.org.au&amp;color=%23182C57&amp;ctz=Australia%2FPerth" style=" border-width:1 " width="90%" height="300" frameborder="0" scrolling="no"></iframe>
 
