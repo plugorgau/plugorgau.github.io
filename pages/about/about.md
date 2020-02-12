@@ -30,9 +30,9 @@ We run monthly events throughout the year including:
 *   Workshops & Hack Days
 *   InstallFests
 *   Annual Christmas party & BBQ
-*   Tours - e.g. Maker Spaces, Data Centres, Minature Railway
+*   Tours - e.g. Maker Spaces, Data Centres, Miniature Railway
 *   Quiz and games nights with prizes
-*   Plug AV & Systems Administration work
+*   PLUG AV recording/streaming & Systems Administration work
 *   Social events at various pubs, cafes and restaurants
 
 Our members have brought our region's premier [Linux, Free Software and Open source
