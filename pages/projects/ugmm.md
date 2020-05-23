@@ -6,7 +6,7 @@ permalink: /projects/ugmm/
 
 This project seeks to lash together various projects to implement a stack of software to help manage the membership requirements of user groups.
 
-See the [mailing list](https://lists.plug.org.au/mailman/listinfo/ugmm).
+See the [mailing list](http://lists.plug.org.au/mailman/listinfo/ugmm).
 
 Details of basic implementation currently.
 

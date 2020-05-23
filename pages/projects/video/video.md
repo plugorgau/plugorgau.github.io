@@ -11,7 +11,7 @@ We aim to document the equipment and issues experienced, and build a Bill Of Mat
 We aim to make the format of the content as engaging as possible, regardless of the content of the presentation.
 
 This project leverages excellent resources and presentations on the subject already available.
- * [Mailing List](https://lists.plug.org.au/mailman/listinfo/av)
+ * [Mailing List](http://lists.plug.org.au/mailman/listinfo/av)
  * [Architecture overview]({{ site.baseurl }}/projects/video/overview)
  * [Equipment setup instructions]({{ site.baseurl }}/projects/video/setup)
  * [Physical equipment List]({{ site.baseurl }}/projects/video/equipment-list)
