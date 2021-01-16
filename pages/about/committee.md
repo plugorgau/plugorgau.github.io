@@ -8,6 +8,7 @@ The PLUG committee consists of seven members who are elected annually during the
 
 Year | Chairperson (President) | Vice-Chairperson (Vice-President) | Treasurer | Secretary | Committee Members (OCMs)
 ---- | ----------------------- | --------------------- | --------- | ------------- | ------------------------
+2021 | Benjamin Arntzen  | Patrick Cody        | Peter Lyons | Margaret Wood | Nick Banon, Paul, James Henstridge
 2020 | Benjamin Arntzen  | Nick Bannon         | Peter Lyons | Paul       | Margaret Wood, James Henstridge, Michel Nzikou
 2019 | Benjamin Arntzen  | Nick Bannon         | Peter Lyons | Paul       | Margaret Wood, James Henstridge, Michel Nzikou
 2018 | Benjamin Arntzen  | Nick Bannon         | Peter Lyons | Paul       | Margaret Wood, Dean Bergin, James Henstridge
