@@ -2,7 +2,7 @@
 
   <div class="wrapper">
 
-    <a class="site-title" href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/logo.png" alt="{{ site.title }}"></a>
+    <a class="site-title" href="{{ .Site.BaseURL }}/"><img src="{{ .Site.BaseURL }}/images/logo.png" alt="{{ .Site.Title }}"></a>
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
@@ -14,15 +14,14 @@
       </a>
 
       <div class="trigger">
-        <a class="page-link" href="{{ site.baseurl }}/">Home</a>
-        <a class="page-link" href="{{ site.baseurl }}/about">About</a>
-        <a class="page-link" href="{{ site.baseurl }}/membership">Membership</a>
-        <a class="page-link" href="{{ site.baseurl }}/events">Events</a>
-        <a class="page-link" href="{{ site.baseurl }}/projects">Projects</a>
-        <a class="page-link" href="{{ site.baseurl }}/resources">Resources</a>
-        <a class="page-link" href="{{ site.baseurl }}/sponsors">Sponsors</a>
-        <a class="page-link" href="{{ site.baseurl }}/contact">Contact Us</a>
-
+        <a class="page-link" href="{{ .Site.BaseURL }}/">Home</a>
+        <a class="page-link" href="{{ .Site.BaseURL }}/about">About</a>
+        <a class="page-link" href="{{ .Site.BaseURL }}/membership">Membership</a>
+        <a class="page-link" href="{{ .Site.BaseURL }}/events">Events</a>
+        <a class="page-link" href="{{ .Site.BaseURL }}/projects">Projects</a>
+        <a class="page-link" href="{{ .Site.BaseURL }}/resources">Resources</a>
+        <a class="page-link" href="{{ .Site.BaseURL }}/sponsors">Sponsors</a>
+        <a class="page-link" href="{{ .Site.BaseURL }}/contact">Contact Us</a>
 
       </div>
     </nav>

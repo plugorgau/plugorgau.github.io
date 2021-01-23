@@ -11,15 +11,15 @@
     </a>
     <!-- Hide Twitter link to https://twitter.com/plugorgau
     |
-        <a href="https://twitter.com/{{ site.twitter_username }}">
+        <a href="https://twitter.com/{{ .Site.Params.twitter_username }}">
       <i class="fab fa-twitter"></i>
-      <span class="username">{{ site.twitter_username }}</span>
+      <span class="username">{{ .Site.Params.twitter_username }}</span>
     </a>
     -->
     |
-    Source: <a href="https://github.com/{{ site.github_username }}">
+    Source: <a href="https://github.com/{{ .Site.Params.github_username }}">
       <i class="fab fa-github"></i>
-      <span class="username">{{ site.github_username }}</span>
+      <span class="username">{{ .Site.Params.github_username }}</span>
     </a>
   </div>
 </footer>

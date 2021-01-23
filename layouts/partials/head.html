@@ -1,0 +1,21 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {{ if .Site.Params.favicon -}}
+  <link rel="shortcut icon" href="{{ relURL ($.Site.Params.favicon) }}" type="image/x-icon" />
+  {{- end }}
+
+  <title>{{ if .Params.Title }}{{ .Params.Title }}{{ else }}{{ .Site.Title }}{{ end }}</title>
+  {{/* NOTE: These Hugo Internal Templates can be found starting at https://gi
+thub.com/spf13/hugo/blob/master/tpl/tplimpl/template_embedded.go#L158 */}}
+  {{- template "_internal/opengraph.html" . -}}
+  {{- template "_internal/schema.html" . -}}
+  {{- template "_internal/twitter_cards.html" . -}}
+
+  {{ $css := resources.Get "css/main.scss" | resources.ToCSS (dict "outputStyle" "compressed") | fingerprint -}}
+  <link rel="stylesheet" href="{{ $css.Permalink }}">
+  <link rel="canonical" href="{{ .Permalink }}">
+  <!-- Font Awesome for the icons in the footer -->
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.9/css/all.css" integrity="sha384-5SOiIsAziJl6AWe0HWRKTXlfcSHKmYV4RBF18PPJ173Kzn7jzMyFuTtk8JA7QQG1" crossorigin="anonymous">
+</head>

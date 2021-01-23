@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Home
-permalink: /
 ---
 Perth Linux Users Group.
 
