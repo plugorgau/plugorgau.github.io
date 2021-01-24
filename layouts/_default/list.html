@@ -1,0 +1,18 @@
+{{ define "main" }}
+<div class="post">
+
+  <article class="post-content">
+    <section>
+      {{- .Content -}}
+    </section>
+    <section>
+      {{ range .Paginator.Pages }}
+        {{- partial "summary.html" . -}}
+      {{ end }}
+    </section>
+    {{- template "_internal/pagination.html" . -}}
+  </article>
+
+</div>
+
+{{ end }}
