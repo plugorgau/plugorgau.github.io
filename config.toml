@@ -6,3 +6,6 @@ disablePathToLower = true
 [params]
 github_username = "plugorgau"
 twitter_username = "plugorgau"
+
+[permalinks]
+minutes = "/events/committee/:year/:month-:day/"
