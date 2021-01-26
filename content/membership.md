@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Membership
-permalink: /membership/
 ---
 
 We really appreciate people supporting PLUG by becoming a financial Member. Membership fees allow us to fund meetings, inter-state and international guest speakers, and other activities in support of Linux and Free & Open Source Software (FOSS). By becoming a Member you also earn the right to vote at our Annual General Meeting. Plus a whole swag of other [events]({{ site.baseurl }}/events) we run throughout the year.

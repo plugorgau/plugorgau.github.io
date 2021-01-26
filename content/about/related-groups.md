@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Other Linux-related groups
-permalink: /about/related-groups/
 ---
 
 PLUG is affiliated with [Linux Australia](https://linux.org.au/lugs/), who support the Australian Linux community in a number of ways, including helping to organise [linux.conf.au](https://linux.conf.au), Australia's national Linux conference.
@@ -21,4 +20,4 @@ Other Linux User Groups (LUGs) around the country include:
    * [Linux Users of Victoria](https://luv.asn.au/) (LUV)
    * [Melbourne Linux Users' Group](https://mlug-au.org/) (MLUG)
 
-Please [contact us]({{ site.baseurl }}/contact) to have your group listed!
+Please [contact us]({{< ref "/contact.md" >}}) to have your group listed!

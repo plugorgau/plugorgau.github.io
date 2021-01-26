@@ -1,13 +1,12 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
- * [Committee]({{ site.baseurl }}/about/committee)
- * [Constitution]({{ site.baseurl }}/about/constitution)
- * [Documents]({{ site.baseurl }}/about/documents)
- * [Related Groups]({{ site.baseurl }}/about/related-groups)
+ * [Committee]({{< relref "committee.md" >}})
+ * [Constitution]({{< relref "constitution.md" >}})
+ * [Documents]({{< relref "documents.md" >}})
+ * [Related Groups]({{< relref "related-groups.md" >}})
 
 The _Perth Linux User's Group_ (PLUG) is one of the largest Linux groups in Australia & Perth.
 

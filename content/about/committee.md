@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Committee
-permalink: /about/committee/
 ---
 
 The PLUG committee consists of seven members who are elected annually during the Annual General Meeting held at the beginning of each calendar year.

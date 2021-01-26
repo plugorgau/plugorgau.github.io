@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Contact
-permalink: /contact/
 ---
 The best way to contact PLUG is:
 * by e-mail; or
