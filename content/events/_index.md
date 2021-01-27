@@ -13,4 +13,4 @@ You can also subscribe to an [iCalendar feed](https://calendar.google.com/calend
 
 To visit our archives of previous events (including talks), check out the [Event Archives]({{< relref "archive/_index.md" >}}).
 
-To visit our archives of the Annual General Meetings and (where available) meeting minutes, check out the [Committee Archives]({{< relref "committee/_index.md" >}}).
+To visit our archives of the Annual General Meetings and (where available) meeting minutes, check out the [Committee Archives]({{< ref "minutes/_index.md" >}}).
