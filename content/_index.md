@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Home
 ---
 Perth Linux Users Group.

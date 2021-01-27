@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Contact
 ---
 The best way to contact PLUG is:
