@@ -8,5 +8,8 @@ paginate = 50
 github_username = "plugorgau"
 twitter_username = "plugorgau"
 
+[markup.goldmark.renderer]
+unsafe = true
+
 [permalinks]
 minutes = "/events/committee/:year/:month-:day/"
