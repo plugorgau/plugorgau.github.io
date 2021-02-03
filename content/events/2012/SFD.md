@@ -1,6 +1,5 @@
 ---
 title: Events Archive 2012 - Software Freedom Day
-permalink: /events/2012/SFD
 ---
 
 # Software Freedom Day 2012

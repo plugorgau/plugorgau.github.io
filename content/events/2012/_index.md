@@ -1,6 +1,5 @@
 ---
 title: Events Archive 2012
-permalink: /events/2012/
 ---
 
 ### **January 2012**
@@ -28,4 +27,4 @@ Architecting Software for the Cloud - Simon Elisha, Amazon Web Services ([downlo
 UEFI & Secure Boot by Jeremy Kerr ([download video](http://www.plug.org.au/video/2012/2012-07-10-UEFI_and_Secure_Boot.mp4) - mp4, 100MB)
 
 ### **September 2012**
-[Software Freedom Day 2012]({{< relref "2012-SFD.md" >}}) and [https://www.softwarefreedomday.org/](https://www.softwarefreedomday.org/)
+[Software Freedom Day 2012]({{< relref "SFD.md" >}}) and [https://www.softwarefreedomday.org/](https://www.softwarefreedomday.org/)
