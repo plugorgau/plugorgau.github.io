@@ -11,6 +11,6 @@ Generally, PLUG runs a talk once a month at [Spacecubed](https://www.spacecubed.
 
 You can also subscribe to an [iCalendar feed](https://calendar.google.com/calendar/ical/president%40plug.org.au/public/basic.ics) of all events.
 
-To visit our archives of previous events (including talks), check out the [Event Archives]({{< relref "archive/_index.md" >}}).
+To visit our archives of previous events (including talks), check out the [Event Archives](archive/_index.md).
 
-To visit our archives of the Annual General Meetings and (where available) meeting minutes, check out the [Committee Archives]({{< ref "minutes/_index.md" >}}).
+To visit our archives of the Annual General Meetings and (where available) meeting minutes, check out the [Committee Archives](minutes/_index.md).

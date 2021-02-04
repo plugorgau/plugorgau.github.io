@@ -17,4 +17,4 @@ title: PLUG Sponsors
 
 ### Past Sponsors
 
-We're also received a ton of help and support over the years, so please visit our [Hall of Fame]({{< relref "hall-of-fame.md" >}}).
+We're also received a ton of help and support over the years, so please visit our [Hall of Fame](hall-of-fame.md).

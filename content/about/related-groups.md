@@ -19,4 +19,4 @@ Other Linux User Groups (LUGs) around the country include:
    * [Linux Users of Victoria](https://luv.asn.au/) (LUV)
    * [Melbourne Linux Users' Group](https://mlug-au.org/) (MLUG)
 
-Please [contact us]({{< ref "/contact.md" >}}) to have your group listed!
+Please [contact us](/contact.md) to have your group listed!
