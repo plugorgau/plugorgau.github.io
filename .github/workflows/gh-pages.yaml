@@ -1,0 +1,23 @@
+name: gh-pages
+
+on:
+  push:
+    branches:
+      # Switch this to master once we commit
+      - hugo-port
+
+jobs:
+  gh-pages:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Install Hugo
+        run: sudo snap install --channel=extended/stable hugo
+      - name: Configure git identity
+        run: |
+          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+          git config --global user.name "${{ github.actor }}"
+      - name: Build site
+        run: ./build-to-gh-pages.sh -b https://plugorgau.github.io/
+      - name: Deploy gh-pages branch
+        run: git -C ./public push origin -f gh-pages
