@@ -14,7 +14,7 @@ thub.com/spf13/hugo/blob/master/tpl/tplimpl/template_embedded.go#L158 */}}
   {{- template "_internal/twitter_cards.html" . -}}
 
   {{ $css := resources.Get "css/main.scss" | resources.ToCSS (dict "outputStyle" "compressed") | fingerprint -}}
-  <link rel="stylesheet" href="{{ $css.Permalink }}">
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}">
   <link rel="canonical" href="{{ .Permalink }}">
   <!-- Font Awesome for the icons in the footer -->
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.9/css/all.css" integrity="sha384-5SOiIsAziJl6AWe0HWRKTXlfcSHKmYV4RBF18PPJ173Kzn7jzMyFuTtk8JA7QQG1" crossorigin="anonymous">
