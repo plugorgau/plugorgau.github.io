@@ -18,6 +18,6 @@ jobs:
           git config --global user.email "${{ github.actor }}@users.noreply.github.com"
           git config --global user.name "${{ github.actor }}"
       - name: Build site
-        run: ./build-to-gh-pages.sh -b https://plugorgau.github.io/
+        run: ./build-to-gh-pages.sh
       - name: Deploy gh-pages branch
         run: git -C ./public push origin -f gh-pages
