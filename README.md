@@ -2,13 +2,13 @@
 
 ### Development
 
-This is a [Jekyll](https://jekyllrb.com/) site built to run on [GitHub Pages](https://help.github.com/articles/what-are-github-pages/).
+This is a [Hugo](https://gohugo.io/) site built to run on [GitHub Pages](https://help.github.com/articles/what-are-github-pages/).
 
 ### Getting Started
 
 #### Requirements
 
-* Jekyll
+* Hugo (extended edition)
 
 #### Migration
 
@@ -26,6 +26,6 @@ useful.
 
 #### Running Locally
 
-Run jekyll with `jekyll serve`.
+Run Hugo with `hugo serve`.
 
-If you are on a PLUG dev box and want to access the site publicly, run ` jekyll serve --host 0.0.0.0 `
+If you are on a PLUG dev box and want to access the site publicly, run `hugo serve --bind 0.0.0.0`

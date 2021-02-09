@@ -1,0 +1,25 @@
+{{ define "main" }}
+<div class="post">
+
+  <article class="post-content">
+    <section>
+      {{- .Content -}}
+    </section>
+    <section>
+      <!--
+      {{ range .Paginator.Pages }}
+        {{- partial "summary.html" . -}}
+      {{ end }}
+      -->
+      <ul>
+        {{ range .Paginator.Pages }}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{ end }}
+      </ul>
+    </section>
+    {{- template "_internal/pagination.html" . -}}
+  </article>
+
+</div>
+
+{{ end }}

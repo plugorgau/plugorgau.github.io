@@ -4,3 +4,4 @@ Gemfile.lock
 .swp
 *~
 .jekyll-metadata
+/resources
