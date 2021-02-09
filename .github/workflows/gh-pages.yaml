@@ -4,7 +4,7 @@ on:
   push:
     branches:
       # Switch this to master once we commit
-      - hugo-port
+      - master
 
 jobs:
   gh-pages:
