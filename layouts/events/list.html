@@ -10,7 +10,7 @@
       <h3>{{ .Key }}</h3>
       <ul>
         {{ range .Pages }}
-        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{- partial "summary.html" . -}}
         {{ end }}
       </ul>
       {{ end }}
