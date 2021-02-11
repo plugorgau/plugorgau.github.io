@@ -1,0 +1,21 @@
+{{ define "main" }}
+<div class="post">
+
+  <article class="post-content">
+    <section>
+      {{- .Content -}}
+    </section>
+    <section>
+      {{ range (.Pages.GroupByDate "January 2006").Reverse }}
+      <h3>{{ .Key }}</h3>
+      <ul>
+        {{ range .Pages }}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{ end }}
+      </ul>
+      {{ end }}
+    </section>
+  </article>
+
+</div>
+{{ end }}

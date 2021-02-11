@@ -1,5 +1,6 @@
 ---
 title: Events Archive 2012 - Software Freedom Day
+date: 2012-09-16T18:00:00+08:00
 ---
 
 # Software Freedom Day 2012

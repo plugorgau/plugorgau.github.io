@@ -1,5 +1,6 @@
 ---
 title: Events Archive 2012
+layout: single
 ---
 
 ### **January 2012**
