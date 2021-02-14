@@ -4,6 +4,15 @@ title: Events Archive
 
 Here is a list of previous PLUG events, organized by year.
 
+* [2021](2021/_index.md)
+* [2020](2020/_index.md)
+* [2019](2019/_index.md)
+* [2018](2018/_index.md)
+* [2017](2017/_index.md)
+* [2016](2016/_index.md)
+* [2015](2015/_index.md)
+* [2014](2014/_index.md)
+* [2013](2013/_index.md)
 * [2012](2012/_index.md)
 * [2011](2011.md)
 * [2010](2010.md)

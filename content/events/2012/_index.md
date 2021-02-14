@@ -25,6 +25,3 @@ Architecting Software for the Cloud - Simon Elisha, Amazon Web Services ([downlo
 
 ### **July 2012**
 UEFI & Secure Boot by Jeremy Kerr ([download video](http://www.plug.org.au/video/2012/2012-07-10-UEFI_and_Secure_Boot.mp4) - mp4, 100MB)
-
-### **September 2012**
-[Software Freedom Day 2012](SFD.md) and [https://www.softwarefreedomday.org/](https://www.softwarefreedomday.org/)

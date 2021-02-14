@@ -1,6 +1,3 @@
-<section>
-  <h1><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
-  <div>
-    {{- .Summary -}}
-  </div>
-</section>
+<li><div><a href="{{ .RelPermalink }}">{{ .Title }}</a></div>
+{{- with .Summary }}<div>{{ . }}</div>{{ end -}}
+</li>
