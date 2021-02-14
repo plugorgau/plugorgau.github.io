@@ -1,8 +1,7 @@
 name: pull-request
 
 on:
-  push:
-    pull_request:
+  pull_request:
 
 env:
   TZ: Australia/Perth
