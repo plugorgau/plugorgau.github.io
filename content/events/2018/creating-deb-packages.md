@@ -29,7 +29,7 @@ Please note that this talk will *not* cover becoming a Debian
 maintainer/developer, which is usually what is required to upload
 new/changed packages to the official Debian package archives.
 
-## Presenter bio
+## Presenter Bio
 
 Alastair is a Software Engineer and system administrator by trade.  He
 has a BSc in Computer Science from Curtin University.
