@@ -2,9 +2,10 @@ name: gh-pages
 
 on:
   push:
-    branches:
-      # Switch this to master once we commit
-      - master
+    branches: [master, main]
+
+env:
+  TZ: Australia/Perth
 
 jobs:
   gh-pages:
