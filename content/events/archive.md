@@ -7,6 +7,7 @@ Here is a list of previous PLUG events, organized by year.
 * [2021](2021/_index.md)
 * [2020](2020/_index.md)
 * [2019](2019/_index.md)
+* [2018](2018/_index.md)
 * [2012](2012/_index.md)
 * [2011](2011.md)
 * [2010](2010.md)
