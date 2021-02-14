@@ -1,10 +1,10 @@
 ---
-title: Events Archive 2012 - Software Freedom Day
+title: Software Freedom Day 2012
 date: 2012-09-15T18:00:00+08:00
 ---
 
-# Software Freedom Day 2012
 This year an excitable group of PLUGgers interested in proselytising software freedom to the wider community are throwing an awesome event for Software Freedom Day.
+<!--more-->
 
 A recent survey taken at a local coffee shop in Western Australia revealed a massive 100% of participants did not understand what Linux was. The survey also showed a 100% lack of understanding of the difference between free software and open source.
 

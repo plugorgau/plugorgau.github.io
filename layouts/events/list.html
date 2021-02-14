@@ -6,7 +6,7 @@
       {{- .Content -}}
     </section>
     <section>
-      {{ range (.Pages.GroupByDate "January 2006").Reverse }}
+      {{ range .Pages.GroupByDate "January 2006" "asc" }}
       <h3>{{ .Key }}</h3>
       <ul>
         {{ range .Pages }}
