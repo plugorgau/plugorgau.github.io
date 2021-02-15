@@ -9,3 +9,5 @@ dropping. I will be talking about how we can use some simple tools to
 streamline and standardise the tasks so that system admins and the
 like and use their time more productively and more enjoyable whilst
 not having to worry about human-error mistakes being made (as much)
+
+{{< youtube "eyQR2Nb5TKc" >}}
