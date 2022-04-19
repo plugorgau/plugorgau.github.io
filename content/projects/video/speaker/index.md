@@ -1,19 +1,69 @@
-Projector at Spacecubed requires HDMI input.
-PLUG provides microphone and camera which feed into a PLUG laptop.
-Owner of BBB room starts meeting.
-Speaker joins meeting.
-Owner makes speaker presenter.
-Presenter can now upload slides. (screenshot)
-Standard PLUG intro slides need to be loaded.
-Hide users (screenshot)
-Owner may make someone else presenter to do intro, then give presenter back to speaker and start recording.
-Make full screen (screenshot)
-Presenter can:
-  * display slides (screenshot)
+<!---
+title: PLUG - Guide for Speakers
+--->
+
+# PLUG - Guide for Speakers #
+
+## Equipment ##
+
+This guide assumes the speaker will bring their own laptop - if this is not the case please cntact the committee
+
+ * The projector at Spacecubed requires HDMI input.
+ * PLUG provides microphone(s) and camera which feed into a PLUG laptop.
+
+## BigBlueButton ##
+
+PLUG uses BigBlueButton to stream its meetings, and to record them. The recording is later edited and will be available on YouTube
+For more information on the features of BigBlueButton see:
+
+  * https://bigbluebutton.org/
+  * https://carleton.ca/brightspace/instructors/bigbluebutton-features/
+
+## Initialising BigBlueButton  ##
+
+ 1. The owner of the BBB room starts the meeting.
+ 2. The speaker then joins the meeting.
+ 3. The owner makes the speaker presenter.
+ 4. The speaker can now upload slides. (screenshot)
+	* BBB can import slides from many different formats
+	* It converts them to PDF, so special effects like Powerpoint animations will be lost.
+ 5. The room owner makes the person who is going to do the introduction presenter.
+  
+## Opening the meeting ##
+
+The Standard PLUG intro slides need to be loaded into BigBlueButton
+
+ * this can be done 
+   * after step 1 by the room owner.
+   * after step 5 by the person doing the introduction
+		
+After the introduction the speaker must be made presenter again
+  
+## Giving the Presentation ##
+
+For best effect:
+
+  * Hide users (screenshot)
+  * Make Full Screen (screenshot)
+  * Now start recording
+  
+The presenter can:
+
+  * display the slides which have been uploaded (screenshot)
   * add annotation to slides (screenshot of available tools)
   * share own screen to do a demo (screenshot)
   * play a (Youtube) video  (untested) (screenshot)
+	* N.B. This has never been done so there is a possibility it won't record well
   * write/draw on whiteboard (second slide in default slides)
-Question Time
-questioners will use (second?) mike
-If people are following the talk online they may submit questions via BBB chat so need to unhide users. Question needs to be repeated aloud into the mike.
+
+## Question Time ##
+
+  * Exit Full Screen and unhide users, so that anyone following online is shown.
+  * Any questioners should use a microphone
+	* There will usually be a second microphone available for this
+  * If people are following the talk online they may submit questions via BBB chat. The question needs to be repeated aloud into the microphone.
+
+## Finishing Up ##
+
+  * Stop the recording
+  * Close the meeting in BBB - this will save everything, which takes some time
