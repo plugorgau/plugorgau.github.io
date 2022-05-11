@@ -10,6 +10,8 @@ env:
 jobs:
   gh-pages:
     runs-on: ubuntu-latest
+    env:
+      GIT_CONFIG_NOSYSTEM: "1"
     steps:
       - uses: actions/checkout@v2
       - name: Install Hugo
