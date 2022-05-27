@@ -3,6 +3,8 @@ baseURL = "http://www.plug.org.au/"
 languageCode = "en-au"
 disablePathToLower = true
 paginate = 50
+enableGitInfo = true
+enableRobotsTXT = true
 
 [params]
 github_username = "plugorgau"
