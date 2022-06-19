@@ -2,10 +2,12 @@
 title: "Video Streaming: Architectural Overview"
 ---
 
-The goal is to produce a stream of video, with vision and audio mixed in real time, with live overlays and titling, outputting to an Icecast server (or a tree of Icecast relay servers).
+The goal is to produce a stream of video, with vision and audio mixed in real time, consisting of at least one camera pointed at a presenter, and a recording of their screen while they present, streamed in real-time to at least one internet-hosted location where it is viewable by outside viewers.
 
-We'll start by talking about the top of the tree: the switching desk.
+The project consists of three "layers":
 
-The switching software selects between a stream of data, and may mix streams with some limited options (eg, dissolve, overlay).
+* The network hardware, a simple router which consumes WiFi, Ethernet or 4G/5G at a location and provides it to AV equipment ("PLUG-Members" WiFi network) and, optionally, PLUG guests ("PLUG" WiFi network)
+* The AV equipment, consisting of a laptop (whether PLUG-provided, or presenter-provided) with a webcam for capturing the presenter + HDMI output for presenting on a TV screen or projector at a venue.
+* Archiver equipment (optional), consisting of one or more devices at the venue capturing video and audio. Alternatively, this takes the form of BigBlueButton recording, which is currently the preferred method.
 
-Due to the limited cable length of Firewire cables, each video source is connected to a local PC, which captures the DV frames, and forwards them over the local network. We will use a wired 100 MBit or faster network where possible, with supplemental video source coming from other networks if needed.
+Each layer is dependent on the layer above (except the network hardware, which is dependent on having some sort of internet connection to connect to).
