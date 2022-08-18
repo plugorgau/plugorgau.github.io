@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en-au">
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+
+  <title>Video Setup Procedure</title>
+  <meta property="og:title" content="Video Setup Procedure" />
+<meta property="og:description" content="This procedure is to take you from packed up boxes to a live stream. Follow all the steps, none of them are optional unless marked.
+Step 1 - DV Switch &amp; Streaming Get the main system up and running first and get a stream happening with our pre-recorded PLUG loop. With multiple people helping out then have someone take care of this while the others can get on with Step 2 in parallel." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.plug.org.au/projects/video/setup/" /><meta property="article:section" content="projects" />
+
+<meta property="article:modified_time" content="2022-08-18T08:26:26+08:00" />
+
+<meta itemprop="name" content="Video Setup Procedure">
+<meta itemprop="description" content="This procedure is to take you from packed up boxes to a live stream. Follow all the steps, none of them are optional unless marked.
+Step 1 - DV Switch &amp; Streaming Get the main system up and running first and get a stream happening with our pre-recorded PLUG loop. With multiple people helping out then have someone take care of this while the others can get on with Step 2 in parallel.">
+<meta itemprop="dateModified" content="2022-08-18T08:26:26+08:00" />
+<meta itemprop="wordCount" content="828">
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Video Setup Procedure"/>
+<meta name="twitter:description" content="This procedure is to take you from packed up boxes to a live stream. Follow all the steps, none of them are optional unless marked.
+Step 1 - DV Switch &amp; Streaming Get the main system up and running first and get a stream happening with our pre-recorded PLUG loop. With multiple people helping out then have someone take care of this while the others can get on with Step 2 in parallel."/>
+<link rel="stylesheet" href="/css/main.09e704e1a0e322dbf705f6526c2e4702aba6278a04d85eee064c5fe3fb1acc76.css">
+  <link rel="canonical" href="http://www.plug.org.au/projects/video/setup/">
+  
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.9/css/all.css" integrity="sha384-5SOiIsAziJl6AWe0HWRKTXlfcSHKmYV4RBF18PPJ173Kzn7jzMyFuTtk8JA7QQG1" crossorigin="anonymous">
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+
+    <a class="site-title" href="/"><img src="/images/logo.png" alt="Perth Linux Users Group"></a>
+
+    <nav class="site-nav">
+      <a href="#" class="menu-icon">
+        <svg viewBox="0 0 18 15">
+          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </a>
+
+      <div class="trigger">
+        <a class="page-link" href="/">Home</a>
+        <a class="page-link" href="/about/">About</a>
+        <a class="page-link" href="/membership/">Membership</a>
+        <a class="page-link" href="/events/">Events</a>
+        <a class="page-link" href="/projects/">Projects</a>
+        <a class="page-link" href="/resources/">Resources</a>
+        <a class="page-link" href="/sponsors/">Sponsors</a>
+        <a class="page-link" href="/contact/">Contact Us</a>
+
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Video Setup Procedure</h1>
+    </header>
+
+  <article class="post-content"><p>This procedure is to take you from packed up boxes to a live stream. Follow all the steps, none of them are optional unless marked.</p>
+<h2 id="step-1---dv-switch--streaming">Step 1 - DV Switch &amp; Streaming</h2>
+<p>Get the main system up and running first and get a stream happening with our pre-recorded PLUG loop. With multiple people helping out then have someone take care of this while the others can get on with Step 2 in parallel.</p>
+<ol>
+<li>Boot AV2 and start up DV Switch (use the &ldquo;latest&rdquo; desktop icon)</li>
+<li>send pre-recorded PLUG intro loop to dvswitch:
+<pre tabindex="0"><code>cd ~/Desktop/PLUG-Video/
+dvsource-file -h localhost -p 1234 -l PLUG\ Live.dv
+</code></pre></li>
+<li>You should see the stream in DV Switch</li>
+<li>stream the output to our icecast server:
+<pre tabindex="0"><code>dvsink-command -h 127.0.0.1 -p 1234 -- ffmpeg2theora - -f dv -F 25:5 --speedlevel 0 -v 4 -a 0 -c 1 -H 9600 -o - | oggfwd icecast.plug.org.au 8000 password /PLUG-live.ogg
+</code></pre></li>
+<li>verify icecast server can see the stream (PLUG-live.ogg): <a href="http://icecast.plug.org.au:8000/">http://icecast.plug.org.au:8000/</a></li>
+<li>verify the stream is watchable, use VLC or some other network capable media player with URL: <a href="http://icecast.plug.org.au:8000/PLUG-live.ogg">http://icecast.plug.org.au:8000/PLUG-live.ogg</a></li>
+</ol>
+<h2 id="step-2---video--audio-sources">Step 2 - Video &amp; Audio Sources</h2>
+<p>For each Camera (use AV3 and AV4) or Twinpac (use AV1) system:</p>
+<ol>
+<li>Boot system and plug in FW device. Only one FW device per computer.</li>
+<li>send video to dvswitch with: <code>dvsource-firewire -h av2.local -p 1234</code></li>
+<li>go to AV2 and check you can see the stream coming into DV Switch</li>
+</ol>
+<p>For the audio from the mixing desk use line-in on AV2:</p>
+<ol>
+<li>
+<p>connect the wireless mic input to system, use the audio control panel to check the audio levels, it may need amplifying (especially if direct from wireless mic, otherwise adjust level on the mixing board).</p>
+</li>
+<li>
+<p>now send the audio to dvswitch with: <code>dvsource-alsa -h av2.local -p 1234 hw:X</code><br>
+(check the hw device for capture with &ldquo;aplay -l&rdquo; and make sure you get the right one!)</p>
+</li>
+</ol>
+<h2 id="step-3---av-team-communications-with-mumble">Step 3 - AV Team Communications (with mumble)</h2>
+<p>We have USB headsets for AV team communications using the mumble client. This avoids any issues with onboard audio and we know the USB headsets work well.</p>
+<ol>
+<li>connect a USB headset to your system</li>
+<li>open the audio settings and make sure both in/out sources have the USB headset selected.</li>
+<li>start the mumble client and connect to av2.local.</li>
+<li>you may need to run the mumble audio setup wizard to ensure levels are all good</li>
+</ol>
+<p>When using mumble - stay muted unless you need to talk.</p>
+<h2 id="step-4---pre-live-testing">Step 4 - Pre-Live Testing</h2>
+<p>At this point DV Switch should be running and streaming the PLUG intro loop, we should also have one or more other sources connected to DV Switch. With pre-live testing we want to ensure audio levels are coming through OK, we can record OK, a last check of the streaming server, initial camera angles and framing are good, and AV team comms are good.</p>
+<ol>
+<li>Monitoring, from the local network:</li>
+</ol>
+<pre tabindex="0"><code>dvsink-command -h av2.local -p 1234 -- mplayer -
+</code></pre><ol start="2">
+<li>Recording the output to disk:</li>
+</ol>
+<pre tabindex="0"><code>cd /storage/av/
+mkdir
+cd
+dvsink-files -h localhost -p 1234 something.dv
+</code></pre><ol start="3">
+<li>NOTE: the above sets up record but no recording takes place until you select the Record button in the DV Switch interface. Each time you stop/start recording a new file is created.</li>
+<li>Do a test recording with proper audio. i.e. use the speakers mic (wireless probably) and make sure they&rsquo;re away from other mic sources like the video cameras. Make sure you&rsquo;ve selected the correct audio source in DV Switch and hit the record button. You only need a short recording (20 seconds). Once it&rsquo;s done play back the recording with mplayer or vlc with headphones connected and make sure the audio is good. If not then there is some tweaking to do&hellip;</li>
+<li>Double check the stream is still live</li>
+<li>Check feeds in DV Switch and make sure you&rsquo;re familiar with each (video and audio). Audio is critical so make sure you&rsquo;re on the correct audio feed at all times.</li>
+</ol>
+<h2 id="step-5---going-live">Step 5 - Going Live</h2>
+<ol>
+<li>Switch over to video and audio feeds for host</li>
+<li>Hit Record and signal we&rsquo;re rolling</li>
+<li>the rest is in your hands</li>
+</ol>
+<h2 id="known-issues">Known Issues</h2>
+<ul>
+<li>Remove TAPES from video cameras if they happen to be in there (usually causes problems)</li>
+<li>Audio out doesn&rsquo;t work on AV1.</li>
+<li>AV2 sometimes has a problem booting - please wait as POSTing is slow, if that doesn&rsquo;t work then power it off and on.</li>
+<li>Plugging 2 FW devices into the one computer is asking for trouble in the form of: both devices stop working, hangs, one works other breaks, etc&hellip; until a reboot.</li>
+</ul>
+<h2 id="minimum-setup-tips">Minimum Setup Tips</h2>
+<p>If there is inadequate help then do a minimum setup. Still use the steps above as a guide but only go with the one system (AV2) and one camera. Connect the camera direct to the system along with audio. If enough time then set up the screen capture device so at least you can swtich between screen and camera as needed.</p>
+<p>TODO</p>
+<p>Update docs to include audio mixing desk setup.
+Scripts etc&hellip; to help automate or ease the whole setup process.</p>
+</article>
+
+</div>
+
+      </div>
+    </div>
+
+    <footer class="site-footer">
+  <div class="wrapper">
+    <a href="https://www.meetup.com/Perth-Linux-Users-Group-PLUG">
+      <i class="fab fa-meetup"></i>
+      <span class="username">PLUG Meetup</span>
+    </a>
+    |
+    <a href="https://www.facebook.com/plug.org.au">
+      <i class="fab fa-facebook-square"></i>
+      <span class="username">Perth Linux Users Group</span>
+    </a>
+    
+    |
+    Source: <a href="https://github.com/plugorgau">
+      <i class="fab fa-github"></i>
+      <span class="username">plugorgau</span>
+    </a>
+  </div>
+</footer>
+
+
+  </body>
+</html>

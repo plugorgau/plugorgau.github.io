@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Perth Linux Users Group</title>
+    <link>http://www.plug.org.au/projects/</link>
+    <description>Recent content in Projects on Perth Linux Users Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language><atom:link href="http://www.plug.org.au/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Logo Competition</title>
+      <link>http://www.plug.org.au/projects/logo-competition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.plug.org.au/projects/logo-competition/</guid>
+      <description>PLUG is looking for a new Logo.
+We have entries so far from Peter Taekema (Great Southern Computer Services-http://gscomputers.com.au ) and Jason Nicholls. Both have earned themselves a year&amp;rsquo;s membership to PLUG (which is worth double as of 1 July 2011!).
+One of the desired features of our new logo is to have it in SVG (vector) format if possible, so if anyone wants to have a play with any of the submitted entries (or indeed a fresh entry) then you will still be eligible for the free membership (or renewal).</description>
+    </item>
+    
+    <item>
+      <title>User Group membership manager</title>
+      <link>http://www.plug.org.au/projects/ugmm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.plug.org.au/projects/ugmm/</guid>
+      <description>This project seeks to lash together various projects to implement a stack of software to help manage the membership requirements of user groups.
+See the mailing list.
+Details of basic implementation currently.
+LDAP Database storing all PLUG Members.
+The base of the database is as follows
+# plug.org.au dn: dc=plug,dc=org,dc=au objectClass: top objectClass: dcObject objectClass: organization o: Perth Linux Users Group dc: plug # Users, plug.org.au dn: ou=Users,dc=plug,dc=org,dc=au ou: Users objectClass: organizationalUnit objectClass: top # Groups, plug.</description>
+    </item>
+    
+  </channel>
+</rss>

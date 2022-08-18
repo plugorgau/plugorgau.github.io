@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2020 Events on Perth Linux Users Group</title>
+    <link>http://www.plug.org.au/events/2020/</link>
+    <description>Recent content in 2020 Events on Perth Linux Users Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language><atom:link href="http://www.plug.org.au/events/2020/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux in Large Scale HPC Deployments by Stuart Midgley</title>
+      <link>http://www.plug.org.au/events/2020/linux-hpc/</link>
+      <pubDate>Tue, 10 Nov 2020 18:00:00 +0800</pubDate>
+      
+      <guid>http://www.plug.org.au/events/2020/linux-hpc/</guid>
+      <description>Stuart joined DUG as Head of IT in 2007. Now the Company’s Chief Information Officer, Stuart developed DUG’s HPC systems; and also designed and developed the DUG Cool system of immersive cooling technology. Stuart was instrumental in the construction of DUG’s supercomputer facility at Skybox in Houston.</description>
+    </item>
+    
+    <item>
+      <title>Quiz Night 2020</title>
+      <link>http://www.plug.org.au/events/2020/quiz-night/</link>
+      <pubDate>Tue, 13 Oct 2020 18:00:00 +0800</pubDate>
+      
+      <guid>http://www.plug.org.au/events/2020/quiz-night/</guid>
+      <description>&lt;p&gt;The quiz questions aren&amp;rsquo;t technical - general knowledge is the
+game. It&amp;rsquo;s a social event, there&amp;rsquo;s prizes to be won, bring a few
+friends who may enjoy this kind of thing. We&amp;rsquo;ll make up tables of
+players on the night, we&amp;rsquo;re expecting 4 or 5 people to a table.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>September Talk: Matrix in 2020 by Michael Collins</title>
+      <link>http://www.plug.org.au/events/2020/matrix/</link>
+      <pubDate>Tue, 08 Sep 2020 18:00:00 +0800</pubDate>
+      
+      <guid>http://www.plug.org.au/events/2020/matrix/</guid>
+      <description>&lt;p&gt;Join us as we discuss recent changes to Matrix and future plans for
+the network. Matrix is a distributed and open source communication
+standard anyone can make client or server software for
+&lt;a href=&#34;https://matrix.org&#34;&gt;Matrix&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>August Talk: Raspberry Pi Jam and Workshop</title>
+      <link>http://www.plug.org.au/events/2020/rpi-jam-august/</link>
+      <pubDate>Tue, 11 Aug 2020 18:00:00 +0800</pubDate>
+      
+      <guid>http://www.plug.org.au/events/2020/rpi-jam-august/</guid>
+      <description>&lt;p&gt;Feel free to come along and show your own project or get help with
+Raspbian/Raspberry Pi OS, LibreELEC and more.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>July Talk: GitHub Actions by James Henstridge</title>
+      <link>http://www.plug.org.au/events/2020/github-actions/</link>
+      <pubDate>Tue, 14 Jul 2020 18:00:00 +0800</pubDate>
+      
+      <guid>http://www.plug.org.au/events/2020/github-actions/</guid>
+      <description>&lt;p&gt;Github Actions is a continuous integration system that can be used for
+everything from building and testing code as it is checked in to
+automatically responding to bug reports.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>March Talk: Raspberry Pi Jam and Workshop</title>
+      <link>http://www.plug.org.au/events/2020/rpi-jam-march/</link>
+      <pubDate>Tue, 10 Mar 2020 18:00:00 +0800</pubDate>
+      
+      <guid>http://www.plug.org.au/events/2020/rpi-jam-march/</guid>
+      <description>&lt;p&gt;Eight years of the Raspberry Pi, since 2012-02-29. Feel free to come
+along and show your own project or get help with Raspbian, LibreELEC
+and more.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

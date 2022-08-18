@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Perth Linux Users Group</title>
+    <link>http://www.plug.org.au/about/</link>
+    <description>Recent content in About on Perth Linux Users Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language><atom:link href="http://www.plug.org.au/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Committee</title>
+      <link>http://www.plug.org.au/about/committee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.plug.org.au/about/committee/</guid>
+      <description>The PLUG committee consists of seven members who are elected annually during the Annual General Meeting held at the beginning of each calendar year.
+Year Chairperson (President) Vice-Chairperson (Vice-President) Treasurer Secretary Committee Members (OCMs) 2021 Benjamin Arntzen Patrick Cody Peter Lyons Margaret Wood Nick Bannon, Paul, James Henstridge 2020 Benjamin Arntzen Nick Bannon Peter Lyons Paul Margaret Wood, James Henstridge, Michel Nzikou 2019 Benjamin Arntzen Nick Bannon Peter Lyons Paul Margaret Wood, James Henstridge, Michel Nzikou 2018 Benjamin Arntzen Nick Bannon Peter Lyons Paul Margaret Wood, Dean Bergin, James Henstridge 2017 Benjamin Arntzen Paul Peter Lyons Nick Bannon Margaret Wood, Dean Bergin, Michael Van Delft 2016 William Termini Paul Michael Van Delft Peter Lyons Margaret Wood 2015 Michael Van Delft Andrew Cooks Peter Lyons Paul James Henstridge, Jason Nicholls, ~Delan Azabani~, ~Luke Mercuri~ 2014 Euan de Kock Nick Bannon Paul Peter Lyons Jason Nicholls, Andrew Cooks, James Henstridge 2013 Euan de Kock Nick Bannon Paul Peter Lyons Alastair Irvine, Luke John, Jason Nicholls 2012 James Bromberger Euan de Kock Nick Bannon Peter Lyons Craig Inches, Alastair Irvine, Luke John 2011 James Bromberger Nick Bannon Mark Gaynor / Jason Nicholls Peter Lyons Patrick Coleman, Alastair Irvine, Tim White, Daniel Harmsworth 2010 Tim White Nick Bannon Mark Gaynor Peter Lyons Patrick Coleman, Alastair Irvine 2009 Patrick Coleman Adon Metcalfe Mark Gaynor Nick Sanford Tim White, Phillip Verschure, David Lloyd, Jason Nicholls, Peter Lyons 2008 Patrick Coleman Adon Metcalfe Mark Gaynor Ian Kent Jason Nicholls, Adrian Woodley, Ritchie Young 2007 Ian Kent Patrick Coleman Mark Gaynor Daniel Axtens Librarian: Ken Muir-Hunt, Talks: Alastair Irvine 2006 Ian Kent Bernard Blackham Mark Gaynor Daniel Axtens Tim White, Jeff Rida, Marcus Giles, Cameron Patrick 2005 Cameron Patrick Marcus Giles Mark Gaynor Bernard Blackham Tim White, Ryan Smith, Greg Macham 2004 Bernard Blackham Leon Brooks Mark Gaynor Clare Johnstone Adrian Woodley, Cameron Patrick 2003 Tony Breeds-Taurima Bernard Blackham Mark Tearle Mark Gaynor Leon Brooks, Clare Johnstone 2002 Matt Kemner Jason Nicholls Tony Breeds-Taurima Tony Breeds-Taurima Daniel Beard, James Bromberger 2001 Matt Kemner Ian Kent David Campbell Tony Breeds-Taurima </description>
+    </item>
+    
+    <item>
+      <title>Constitution</title>
+      <link>http://www.plug.org.au/about/constitution/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.plug.org.au/about/constitution/</guid>
+      <description>Like all associations in Western Australia, PLUG is required to have a constitution.
+2019 (Current) - Updated at the 2019 AGM 2012 - Updated at the 2012 AGM 2010 - Adopted during 2010. </description>
+    </item>
+    
+    <item>
+      <title>Documents</title>
+      <link>http://www.plug.org.au/about/documents/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.plug.org.au/about/documents/</guid>
+      <description>The attached files are our significant registrations.
+Current constitution Code of Conduct Certificate of Incorporation Incorporation Letter Logo - The official PLUG logo as SVG. </description>
+    </item>
+    
+    <item>
+      <title>Other Linux-related groups</title>
+      <link>http://www.plug.org.au/about/related-groups/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.plug.org.au/about/related-groups/</guid>
+      <description>PLUG is affiliated with Linux Australia, who support the Australian Linux community in a number of ways, including helping to organise linux.conf.au, Australia&amp;rsquo;s national Linux conference.
+Other Linux User Groups (LUGs) around the country include:
+Some current, some historical: Whirlpool wiki ACT: Canberra Linux User Group (CLUG) New South Wales: Sydney Linux Users&amp;rsquo; Group (SLUG) Queensland: Home Unix Machine, Brisbane User Group (HUMBUG) Central Queensland Linux Users Group (CQLUG) South Australia: LinuxSA Tasmania: Tasmanian Linux Users&amp;rsquo; Group (TasLUG) Victoria: Free Software Australia, Melbourne branch (FSM) Linux Users of Victoria (LUV) Melbourne Linux Users&amp;rsquo; Group (MLUG) Please contact us to have your group listed!</description>
+    </item>
+    
+  </channel>
+</rss>

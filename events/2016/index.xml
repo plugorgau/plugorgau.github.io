@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2016 Events on Perth Linux Users Group</title>
+    <link>http://www.plug.org.au/events/2016/</link>
+    <description>Recent content in 2016 Events on Perth Linux Users Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language><atom:link href="http://www.plug.org.au/events/2016/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>November Talk: Castledare Trains</title>
+      <link>http://www.plug.org.au/events/2016/castledare/</link>
+      <pubDate>Sat, 12 Nov 2016 11:00:00 +0800</pubDate>
+      
+      <guid>http://www.plug.org.au/events/2016/castledare/</guid>
+      <description>&lt;p&gt;Behind the scene&amp;rsquo;s look on how steam trains are built, repaired and
+modified ;)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>October Talk: Data Centre tour at DownUnder GeoSolutions</title>
+      <link>http://www.plug.org.au/events/2016/dug/</link>
+      <pubDate>Tue, 11 Oct 2016 18:00:00 +0800</pubDate>
+      
+      <guid>http://www.plug.org.au/events/2016/dug/</guid>
+      <description>Come along to the DownUnder GeoSolutions data center and see the largest supercomputer in the Southern Hemisphere. They have 500 nodes in Perth with 200 of them in dielectric fluid fish tanks.</description>
+    </item>
+    
+    <item>
+      <title>September Talk: Chromecast by James Henstridge</title>
+      <link>http://www.plug.org.au/events/2016/chromecast/</link>
+      <pubDate>Tue, 13 Sep 2016 18:00:00 +0800</pubDate>
+      
+      <guid>http://www.plug.org.au/events/2016/chromecast/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>June Talk: Dropbear by Matt Johnston</title>
+      <link>http://www.plug.org.au/events/2016/dropbear/</link>
+      <pubDate>Tue, 14 Jun 2016 18:00:00 +0800</pubDate>
+      
+      <guid>http://www.plug.org.au/events/2016/dropbear/</guid>
+      <description>&lt;p&gt;Dropbear is an open source SSH server running on millions of embedded
+Linux systems. See where it&amp;rsquo;s used, how it&amp;rsquo;s been developed, and maybe
+learn a thing or two about SSH generally.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>March Talk: WAFreeNet</title>
+      <link>http://www.plug.org.au/events/2016/wa-freenet/</link>
+      <pubDate>Tue, 08 Mar 2016 18:00:00 +0800</pubDate>
+      
+      <guid>http://www.plug.org.au/events/2016/wa-freenet/</guid>
+      <description>PLUG Talk November: Rob from WAFreeNet</description>
+    </item>
+    
+  </channel>
+</rss>

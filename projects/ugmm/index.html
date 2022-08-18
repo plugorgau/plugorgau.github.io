@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en-au">
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+
+  <title>User Group membership manager</title>
+  <meta property="og:title" content="User Group membership manager" />
+<meta property="og:description" content="This project seeks to lash together various projects to implement a stack of software to help manage the membership requirements of user groups.
+See the mailing list.
+Details of basic implementation currently.
+LDAP Database storing all PLUG Members.
+The base of the database is as follows
+# plug.org.au dn: dc=plug,dc=org,dc=au objectClass: top objectClass: dcObject objectClass: organization o: Perth Linux Users Group dc: plug # Users, plug.org.au dn: ou=Users,dc=plug,dc=org,dc=au ou: Users objectClass: organizationalUnit objectClass: top # Groups, plug." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.plug.org.au/projects/ugmm/" /><meta property="article:section" content="projects" />
+
+<meta property="article:modified_time" content="2022-08-18T08:26:26+08:00" />
+
+<meta itemprop="name" content="User Group membership manager">
+<meta itemprop="description" content="This project seeks to lash together various projects to implement a stack of software to help manage the membership requirements of user groups.
+See the mailing list.
+Details of basic implementation currently.
+LDAP Database storing all PLUG Members.
+The base of the database is as follows
+# plug.org.au dn: dc=plug,dc=org,dc=au objectClass: top objectClass: dcObject objectClass: organization o: Perth Linux Users Group dc: plug # Users, plug.org.au dn: ou=Users,dc=plug,dc=org,dc=au ou: Users objectClass: organizationalUnit objectClass: top # Groups, plug.">
+<meta itemprop="dateModified" content="2022-08-18T08:26:26+08:00" />
+<meta itemprop="wordCount" content="843">
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="User Group membership manager"/>
+<meta name="twitter:description" content="This project seeks to lash together various projects to implement a stack of software to help manage the membership requirements of user groups.
+See the mailing list.
+Details of basic implementation currently.
+LDAP Database storing all PLUG Members.
+The base of the database is as follows
+# plug.org.au dn: dc=plug,dc=org,dc=au objectClass: top objectClass: dcObject objectClass: organization o: Perth Linux Users Group dc: plug # Users, plug.org.au dn: ou=Users,dc=plug,dc=org,dc=au ou: Users objectClass: organizationalUnit objectClass: top # Groups, plug."/>
+<link rel="stylesheet" href="/css/main.09e704e1a0e322dbf705f6526c2e4702aba6278a04d85eee064c5fe3fb1acc76.css">
+  <link rel="canonical" href="http://www.plug.org.au/projects/ugmm/">
+  
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.9/css/all.css" integrity="sha384-5SOiIsAziJl6AWe0HWRKTXlfcSHKmYV4RBF18PPJ173Kzn7jzMyFuTtk8JA7QQG1" crossorigin="anonymous">
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+
+    <a class="site-title" href="/"><img src="/images/logo.png" alt="Perth Linux Users Group"></a>
+
+    <nav class="site-nav">
+      <a href="#" class="menu-icon">
+        <svg viewBox="0 0 18 15">
+          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </a>
+
+      <div class="trigger">
+        <a class="page-link" href="/">Home</a>
+        <a class="page-link" href="/about/">About</a>
+        <a class="page-link" href="/membership/">Membership</a>
+        <a class="page-link" href="/events/">Events</a>
+        <a class="page-link" href="/projects/">Projects</a>
+        <a class="page-link" href="/resources/">Resources</a>
+        <a class="page-link" href="/sponsors/">Sponsors</a>
+        <a class="page-link" href="/contact/">Contact Us</a>
+
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">User Group membership manager</h1>
+    </header>
+
+  <article class="post-content"><p>This project seeks to lash together various projects to implement a stack of software to help manage the membership requirements of user groups.</p>
+<p>See the <a href="http://lists.plug.org.au/mailman/listinfo/ugmm">mailing list</a>.</p>
+<p>Details of basic implementation currently.</p>
+<p>LDAP Database storing all PLUG Members.</p>
+<p>The base of the database is as follows</p>
+<pre tabindex="0"><code># plug.org.au
+dn: dc=plug,dc=org,dc=au
+objectClass: top
+objectClass: dcObject
+objectClass: organization
+o: Perth Linux Users Group
+dc: plug
+
+# Users, plug.org.au
+dn: ou=Users,dc=plug,dc=org,dc=au
+ou: Users
+objectClass: organizationalUnit
+objectClass: top
+
+# Groups, plug.org.au
+dn: ou=Groups,dc=plug,dc=org,dc=au
+ou: Groups
+objectClass: organizationalUnit
+objectClass: top
+
+# UPG, Groups, plug.org.au
+dn: ou=UPG,ou=Groups,dc=plug,dc=org,dc=au
+ou: UPG
+objectClass: organizationalUnit
+objectClass: top
+
+# maxUid, Users, plug.org.au
+dn: cn=maxUid,ou=Users,dc=plug,dc=org,dc=au
+objectClass: namedObject
+objectClass: extensibleObject
+objectClass: top
+uidNumber: 12000
+cn: maxUid
+x-plug-paymentID: 377
+</code></pre><p>Fairly obvious where things are stored. UPG is for users individual groups. i.e. user bob has group bob as well. This just keeps the directory cleaner and easier to find the operational groups under Groups. maxUid is used to keep track of the next uid to assign a user and the x-plug-paymentID of maxUid is used to keep track of the next payment ID.</p>
+<p>We have a custom schema to support membership payments and mail forwarding. This schema is not finalised to if you wish to use it also, beware that some of the OID&rsquo;s may change. (This will eventually be stored in a bzr repository so you can get the latest version easily).</p>
+<pre tabindex="0"><code>#1.3.6.1.4.1.37966.
+
+attributetype ( 1.3.6.1.4.1.37966.101
+NAME &#39;x-plug-paymentDate&#39;
+DESC &#39;Date of Payment&#39;
+EQUALITY generalizedTimeMatch
+ORDERING generalizedTimeOrderingMatch
+SYNTAX 1.3.6.1.4.1.1466.115.121.1.24 )
+
+attributetype ( 1.3.6.1.4.1.37966.102
+NAME &#39;x-plug-paymentID&#39;
+DESC &#39;Payment uniqueID&#39;
+EQUALITY integerMatch
+ORDERING integerOrderingMatch
+SYNTAX 1.3.6.1.4.1.1466.115.121.1.27 )
+
+attributetype ( 1.3.6.1.4.1.37966.103
+NAME &#39;x-plug-paymentAmount&#39;
+DESC &#39;Payment amount (in cents)&#39;
+EQUALITY integerMatch
+ORDERING integerOrderingMatch
+SYNTAX 1.3.6.1.4.1.1466.115.121.1.27 )
+
+attributetype ( 1.3.6.1.4.1.37966.104
+NAME &#39;x-plug-paymentType&#39;
+DESC &#39;Type of Payment (Full, Concession, Family)&#39;
+EQUALITY caseIgnoreMatch
+SUBSTR caseIgnoreSubstringsMatch
+SYNTAX 1.3.6.1.4.1.1466.115.121.1.15 )
+
+attributetype ( 1.3.6.1.4.1.37966.105
+NAME &#39;x-plug-paymentDescription&#39;
+DESC &#39;Payment Description&#39;
+SUP description )
+
+attributetype ( 1.3.6.1.4.1.37966.106
+NAME &#39;x-plug-paymentYears&#39;
+DESC &#39;How many years is the payment for?&#39;
+EQUALITY integerMatch
+ORDERING integerOrderingMatch
+SYNTAX 1.3.6.1.4.1.1466.115.121.1.27 )
+
+objectClass ( 1.3.6.1.4.1.37966.10
+NAME &#39;x-plug-payment&#39;
+DESC &#39;Payment&#39;
+SUP top
+STRUCTURAL
+MUST ( x-plug-paymentDate $ x-plug-paymentID $ x-plug-paymentAmount $ x-plug-paymentType $ x-plug-paymentYears )
+MAY ( x-plug-paymentDescription )
+)
+
+attributetype ( 1.3.6.1.4.1.37966.107
+NAME ( &#39;mailForward&#39; )
+DESC &#39;RFC1274: RFC822 Mailbox&#39;
+EQUALITY caseIgnoreIA5Match
+SUBSTR caseIgnoreIA5SubstringsMatch
+SYNTAX 1.3.6.1.4.1.1466.115.121.1.26{256} )
+
+objectClass ( 1.3.6.1.4.1.37966.20
+NAME &#39;mailForwardingAccount&#39;
+DESC &#39;Allows mail forwarding address&#39;
+SUP top
+AUXILIARY
+MAY ( mailForward )
+)
+</code></pre><p>Storage of users are with objectClasses top, person, posixAccount, inetOrgPerson, shadowAccount and mailForwardingAccount. mailForwarding account is a custom PLUG objectClass. posixAccount is from the rfc2307bis schema (so we aren&rsquo;t using the nis.schema file that comes with OpenLDAP).</p>
+<p>We are using a DN of the form uidNumber=123,ou=Users,dc=plug,dc=org,dc=au so that users can change their username (uid) without having to change the DN and everywhere in the LDAP directory where the DN is referenced. The mail attribute is users email address for record keeping. The mailForward attribute is the users email address we forward their @members.plug.org.au email to. Currently if mailForward is missing (no forwarding) we forward to the email in the mail attribute as we are not currently hosting local email for users. In the future when this changes we can revert to only forwarding if a mailForward attribute is present.</p>
+<p>The shadowExpire attribute is being used to lockout the user when their account has expired. This still allows them to login via the web interface to see account status and update user details. A currentmembers group is also maintained so that applications that don&rsquo;t understand shadowExpire but can do selections based on group are also able to lockout accounts. The currentmembers group needs to be updated daily via a runner script which can also send out the expiring/expired users emails.</p>
+<p>Shell Authentication off LDAP</p>
+<p>We are using the nss-pam-ldap package from Arthur de Jong (<a href="https://arthurdejong.org/nss-pam-ldapd/%29">https://arthurdejong.org/nss-pam-ldapd/)</a>. The 0.7.13 version in Ubuntu and Debian both contain a bug that we discovered that has since been fixed. For this reason we have patched the package and forced dpkg to hold it so it doesn&rsquo;t get upgraded accidently.</p>
+<p>The main config file for all this is /etc/nslcd.conf, most of which is very easy to figure out.
+The magic comes from the filter lines, and the pam_authz_search. Both are LDAP searchs that are used to filter the responses from the database.
+For example, we have the following filter line on our shell server which limits the accounts to those we are currentmembers. This could be changed for example to only show accounts that have shell access enabled.</p>
+<pre tabindex="0"><code>filter passwd (&amp;(objectClass=posixAccount)(memberOf=cn=currentmembers,ou=Groups,dc=plug,dc=org,dc=au))
+</code></pre><p>We use the pam_authz_search on the shell server as well to limit login to only accounts with shell access enabled.</p>
+<pre tabindex="0"><code>pam_authz_search (&amp;(uid=$uid)(memberOf=cn=currentmembers,ou=Groups,dc=plug,dc=org,dc=au)(memberOf=cn=shell,ou=Groups,dc=plug,dc=org,dc=au))
+</code></pre><p>Note however, that while we are using groups to specify currentmembers, it&rsquo;s actually in the shadow entries that we use shadowExpire to actually store the users expiry, which means without the runner script moving users from currentmembers to expiredmembers, they will be unable to login after their account expires. The usage of groups allows us to only deal with members who should be current, rather than having 350 accounts of which only 50 are actually valid.</p>
+</article>
+
+</div>
+
+      </div>
+    </div>
+
+    <footer class="site-footer">
+  <div class="wrapper">
+    <a href="https://www.meetup.com/Perth-Linux-Users-Group-PLUG">
+      <i class="fab fa-meetup"></i>
+      <span class="username">PLUG Meetup</span>
+    </a>
+    |
+    <a href="https://www.facebook.com/plug.org.au">
+      <i class="fab fa-facebook-square"></i>
+      <span class="username">Perth Linux Users Group</span>
+    </a>
+    
+    |
+    Source: <a href="https://github.com/plugorgau">
+      <i class="fab fa-github"></i>
+      <span class="username">plugorgau</span>
+    </a>
+  </div>
+</footer>
+
+
+  </body>
+</html>

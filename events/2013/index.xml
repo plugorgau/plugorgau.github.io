@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2013 Events on Perth Linux Users Group</title>
+    <link>http://www.plug.org.au/events/2013/</link>
+    <description>Recent content in 2013 Events on Perth Linux Users Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language><atom:link href="http://www.plug.org.au/events/2013/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>November Talk: SkyNet Pan-STARRS1 Optical Galaxy Survey project by Kevin Vinsen</title>
+      <link>http://www.plug.org.au/events/2013/skynet/</link>
+      <pubDate>Tue, 12 Nov 2013 18:00:00 +0800</pubDate>
+      
+      <guid>http://www.plug.org.au/events/2013/skynet/</guid>
+      <description>&lt;p&gt;Kevin Vinsen will be giving a talk on SkyNet Pan-STARRS1 Optical
+Galaxy Survey (POGS) project. His talk will discuss the use of the
+Berkeley Open Infrastructure for Network Computing (BOINC) middleware
+and Internet-connected computers to measure the galactic structural
+properties of ~100,000 galaxies.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>October Talk: Configuration Management using Puppet by Luke Williams</title>
+      <link>http://www.plug.org.au/events/2013/puppet/</link>
+      <pubDate>Tue, 08 Oct 2013 18:00:00 +0800</pubDate>
+      
+      <guid>http://www.plug.org.au/events/2013/puppet/</guid>
+      <description>&lt;p&gt;Luke Williams will be talking about automated system administration
+and configuration using Puppet.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>August Talk: &#39;Student Cluster Competition&#39; at the ACM/IEEE Supercomputing Conference</title>
+      <link>http://www.plug.org.au/events/2013/student-cluster/</link>
+      <pubDate>Tue, 13 Aug 2013 18:00:00 +0800</pubDate>
+      
+      <guid>http://www.plug.org.au/events/2013/student-cluster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>July Talk: Intro into Subversion by Alastair Irvine</title>
+      <link>http://www.plug.org.au/events/2013/subversion/</link>
+      <pubDate>Tue, 09 Jul 2013 18:00:00 +0800</pubDate>
+      
+      <guid>http://www.plug.org.au/events/2013/subversion/</guid>
+      <description>&lt;p&gt;Alastair Irvine believes in the right tool for the job. At this PLUG
+talk, he will be giving an introduction to Subversion including a few
+demos, some of which will be interactive. Feel free to bring your
+laptop.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>May Talk: Linux on IBM Mainframes</title>
+      <link>http://www.plug.org.au/events/2013/mainframe/</link>
+      <pubDate>Tue, 14 May 2013 18:00:00 +0800</pubDate>
+      
+      <guid>http://www.plug.org.au/events/2013/mainframe/</guid>
+      <description>&lt;p&gt;For 8 months in 2007, I was part of a multi-national team working
+towards winning a multi-million dollar contract to modernize the core
+application of a very large logistics management company. According to
+our client, at time of evaluation, our Linux on IBM Mainframe solution
+was most innovative and bold.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>March Talk: IPV6</title>
+      <link>http://www.plug.org.au/events/2013/ipv6/</link>
+      <pubDate>Tue, 12 Mar 2013 18:00:00 +0800</pubDate>
+      
+      <guid>http://www.plug.org.au/events/2013/ipv6/</guid>
+      <description>Following the success of 2012&amp;rsquo;s World IPv6 Launch, several popular websites and services are now available via IPv6. Participating sites include Google, Facebook, Youtube, Yahoo and Wikipedia. In addition to this newly accessible content, local ISPs are starting to investigate supporting IPv6 for domestic consumers.
+Adrian will present several ways for you to access the IPv6 Internet today, using whichever Internet connection you currently have, as well as common problems and gotchas.</description>
+    </item>
+    
+  </channel>
+</rss>

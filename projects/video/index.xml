@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Video Streaming Project on Perth Linux Users Group</title>
+    <link>http://www.plug.org.au/projects/video/</link>
+    <description>Recent content in Video Streaming Project on Perth Linux Users Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language><atom:link href="http://www.plug.org.au/projects/video/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://www.plug.org.au/projects/video/speaker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.plug.org.au/projects/video/speaker/</guid>
+      <description>PLUG - Guide for Speakers Equipment This guide assumes the speaker will bring their own laptop - if this is not the case please cntact the committee
+The projector at Spacecubed requires HDMI input. PLUG provides microphone(s) and camera which feed into a PLUG laptop. BigBlueButton PLUG uses BigBlueButton to stream its meetings, and to record them. The recording is later edited and will be available on YouTube For more information on the features of BigBlueButton see:</description>
+    </item>
+    
+    <item>
+      <title>Physical Equipment</title>
+      <link>http://www.plug.org.au/projects/video/equipment-list/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.plug.org.au/projects/video/equipment-list/</guid>
+      <description>AV1: screen grabber, intel, audio out not working
+AV2: dvswitch, AMD Athlon II X4 640, 2GB RAM, audio in/out working (but mixer connection)
+AV3: camera, 2.8Ghz Celeron, 512MB RAM, audio in is not working
+AV4: camera, AMD Athlon 64 3500+, 1GB RAM, audio in/out working
+NOTE: system fails to boot a lot (dying?)
+The equipment we are aiming to use in most places is as generic, affordable and commodity as possible.</description>
+    </item>
+    
+    <item>
+      <title>Video Setup Procedure</title>
+      <link>http://www.plug.org.au/projects/video/setup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.plug.org.au/projects/video/setup/</guid>
+      <description>This procedure is to take you from packed up boxes to a live stream. Follow all the steps, none of them are optional unless marked.
+Step 1 - DV Switch &amp;amp; Streaming Get the main system up and running first and get a stream happening with our pre-recorded PLUG loop. With multiple people helping out then have someone take care of this while the others can get on with Step 2 in parallel.</description>
+    </item>
+    
+    <item>
+      <title>Video Streaming: Architectural Overview</title>
+      <link>http://www.plug.org.au/projects/video/overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.plug.org.au/projects/video/overview/</guid>
+      <description>The goal is to produce a stream of video, with vision and audio mixed in real time, consisting of at least one camera pointed at a presenter, and a recording of their screen while they present, streamed in real-time to at least one internet-hosted location where it is viewable by outside viewers.
+The project consists of three &amp;ldquo;layers&amp;rdquo;:
+The network hardware, a simple router which consumes WiFi, Ethernet or 4G/5G at a location and provides it to AV equipment (&amp;ldquo;PLUG-Members&amp;rdquo; WiFi network) and, optionally, PLUG guests (&amp;ldquo;PLUG&amp;rdquo; WiFi network) The AV equipment, consisting of a laptop (whether PLUG-provided, or presenter-provided) with a webcam for capturing the presenter + HDMI output for presenting on a TV screen or projector at a venue.</description>
+    </item>
+    
+    <item>
+      <title>Video Streaming: Network setup</title>
+      <link>http://www.plug.org.au/projects/video/network/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.plug.org.au/projects/video/network/</guid>
+      <description>Network hardware forms the backbone of the video streaming setup. The goal of it is to provide a simple solution for consuming an internet connection from whatever is available - WiFi, 4G/5G tethering or an Ethernet internet connection - and turning that connection into a consistent network for PLUG guests + AV hardware.
+Introduction The network hardware currently consists of a GL.iNet GL-MT1300 &amp;ldquo;Beryl&amp;rdquo; WiFi router, running OpenWRT - referred to throughout the rest of this document as &amp;ldquo;Beryl&amp;rdquo;.</description>
+    </item>
+    
+  </channel>
+</rss>

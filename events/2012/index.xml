@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events Archive 2012 on Perth Linux Users Group</title>
+    <link>http://www.plug.org.au/events/2012/</link>
+    <description>Recent content in Events Archive 2012 on Perth Linux Users Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language><atom:link href="http://www.plug.org.au/events/2012/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>December Talk: Amazon Web Services by James Bromberger</title>
+      <link>http://www.plug.org.au/events/2012/aws/</link>
+      <pubDate>Tue, 11 Dec 2012 18:00:00 +0800</pubDate>
+      
+      <guid>http://www.plug.org.au/events/2012/aws/</guid>
+      <description>&lt;p&gt;Amazon Web Services Cloud recently launched in Sydney, Australia. Come
+and find out what it is, how you can use it, and whats new with the
+service.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>November Talk: Linux on Large Clusters by Stuart Midgley</title>
+      <link>http://www.plug.org.au/events/2012/linux-clusters/</link>
+      <pubDate>Tue, 13 Nov 2012 18:00:00 +0800</pubDate>
+      
+      <guid>http://www.plug.org.au/events/2012/linux-clusters/</guid>
+      <description>&lt;p&gt;Stuart Midgley will be talking about his experiences and issues with
+managing a 25000 core cluster with 4 petabytes of storage.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>October Talk: Python in Astronomy by Andrew Williams</title>
+      <link>http://www.plug.org.au/events/2012/astronomy/</link>
+      <pubDate>Tue, 09 Oct 2012 18:00:00 +0800</pubDate>
+      
+      <guid>http://www.plug.org.au/events/2012/astronomy/</guid>
+      <description>&lt;p&gt;Dr. Andrew Williams on Python use in astronomy, work with optical
+telescopes and digital cameras; and the
+&lt;a href=&#34;http://www.mwatelescope.org/&#34;&gt;Murchison Widefield Array&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Software Freedom Day 2012</title>
+      <link>http://www.plug.org.au/events/2012/SFD/</link>
+      <pubDate>Sat, 15 Sep 2012 18:00:00 +0800</pubDate>
+      
+      <guid>http://www.plug.org.au/events/2012/SFD/</guid>
+      <description>&lt;p&gt;This year an excitable group of PLUGgers interested in proselytising software freedom to the wider community are throwing an awesome event for Software Freedom Day.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>September Talk: Bitcoin by Leo Treasure</title>
+      <link>http://www.plug.org.au/events/2012/bitcoin/</link>
+      <pubDate>Tue, 11 Sep 2012 18:00:00 +0800</pubDate>
+      
+      <guid>http://www.plug.org.au/events/2012/bitcoin/</guid>
+      <description>&lt;p&gt;Leo Treasure talks about Bitcoin&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2019 Events on Perth Linux Users Group</title>
+    <link>http://www.plug.org.au/events/2019/</link>
+    <description>Recent content in 2019 Events on Perth Linux Users Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language><atom:link href="http://www.plug.org.au/events/2019/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quiz Night, Belgian Beer Cafe, Perth CBD</title>
+      <link>http://www.plug.org.au/events/2019/quiz-night/</link>
+      <pubDate>Tue, 19 Nov 2019 18:00:00 +0800</pubDate>
+      
+      <guid>http://www.plug.org.au/events/2019/quiz-night/</guid>
+      <description>&lt;p&gt;The quiz questions aren&amp;rsquo;t technical - general knowledge is the
+game. It&amp;rsquo;s a social event, there&amp;rsquo;s prizes to be won, bring a few
+friends who may enjoy this kind of thing. We&amp;rsquo;ll make up tables of
+players on the night, we&amp;rsquo;re expecting 4 or 5 people to a table.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>September Talk: MooseFS and the Elastic NAS by Benjamin Arntzen</title>
+      <link>http://www.plug.org.au/events/2019/moosefs/</link>
+      <pubDate>Tue, 10 Sep 2019 18:00:00 +0800</pubDate>
+      
+      <guid>http://www.plug.org.au/events/2019/moosefs/</guid>
+      <description>&lt;p&gt;A do-it-yourself approach to &lt;a href=&#34;https://en.wikipedia.org/wiki/Network-attached_storage&#34;&gt;network-attached
+storage&lt;/a&gt; built
+with commodity open source software, and cheap, low-power hardware,
+using the distributed file system &lt;a href=&#34;https://moosefs.com/&#34;&gt;MooseFS&lt;/a&gt;
+(similar to Ceph, Gluster, etc).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>July Talk: PLUG AV introduction</title>
+      <link>http://www.plug.org.au/events/2019/plug-av/</link>
+      <pubDate>Tue, 09 Jul 2019 18:00:00 +0800</pubDate>
+      
+      <guid>http://www.plug.org.au/events/2019/plug-av/</guid>
+      <description>An introduction and demo of PLUG&amp;rsquo;s internal Audio/Video systems.</description>
+    </item>
+    
+    <item>
+      <title>May Talk: Raspberry PI Jam &amp; Workshop</title>
+      <link>http://www.plug.org.au/events/2019/rpi-jam/</link>
+      <pubDate>Tue, 14 May 2019 18:00:00 +0800</pubDate>
+      
+      <guid>http://www.plug.org.au/events/2019/rpi-jam/</guid>
+      <description>&lt;p&gt;Feel free to come along and work on your own project or get help
+installing Linux.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>April Talk: Deploying an OpenStack control plane with MAAS, Ansible, and Ceph by Gregory Orange</title>
+      <link>http://www.plug.org.au/events/2019/openstack/</link>
+      <pubDate>Tue, 09 Apr 2019 18:00:00 +0800</pubDate>
+      
+      <guid>http://www.plug.org.au/events/2019/openstack/</guid>
+      <description>&lt;p&gt;The Pawsey Super computing Centre in Technology Park offers an
+OpenStack cloud service(think AWS) to Australian researchers for a
+wide array of projects (radio astronomy, genomics,
+bioinformatics. OpenStack&amp;rsquo;s control plane requires regular upgrades,
+which presents an ongoing operational challenge.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>March Talk: Deploying IoT/embedded applications with Ubuntu Core by James Henstridge</title>
+      <link>http://www.plug.org.au/events/2019/iot-ubuntu/</link>
+      <pubDate>Tue, 12 Mar 2019 18:00:00 +0800</pubDate>
+      
+      <guid>http://www.plug.org.au/events/2019/iot-ubuntu/</guid>
+      <description>&lt;p&gt;Small single board computers like the Raspberry Pi provide a great
+base for deploying projects. However, designing a system so it can be
+updated after deployment can be a challenge. When devices are hooked
+up to the Internet, this becomes even more critical due to the regular
+stream of security vulnerabilities that may impact the install.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

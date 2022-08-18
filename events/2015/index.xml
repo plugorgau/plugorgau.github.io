@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2015 Events on Perth Linux Users Group</title>
+    <link>http://www.plug.org.au/events/2015/</link>
+    <description>Recent content in 2015 Events on Perth Linux Users Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language><atom:link href="http://www.plug.org.au/events/2015/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>November Talk: The future is awesome by Paul Fenwick</title>
+      <link>http://www.plug.org.au/events/2015/paul-fenwick/</link>
+      <pubDate>Mon, 09 Nov 2015 18:00:00 +0800</pubDate>
+      
+      <guid>http://www.plug.org.au/events/2015/paul-fenwick/</guid>
+      <description>The 21st century is a time with an unprecedented expansion of ideas, culture, technology, information, and global justice. Compared to any other point in history, humans are flourishing. Yet the way in which we think about the world—and our shared future in it—has not accelerated at the same pace. Join us to find out why the future is awesome in ways you may not expect, and what you can do about it.</description>
+    </item>
+    
+    <item>
+      <title>October Talk: Deploying apps on Snappy Ubuntu Core by James Henstridge</title>
+      <link>http://www.plug.org.au/events/2015/ubuntu-core/</link>
+      <pubDate>Tue, 13 Oct 2015 18:00:00 +0800</pubDate>
+      
+      <guid>http://www.plug.org.au/events/2015/ubuntu-core/</guid>
+      <description>Deploying apps on Snappy Ubuntu Core by James Henstridge
+It will include a description of what Snappy is (and how it differs to traditional Ubuntu systems), and some basics of how to package up software to run on the system</description>
+    </item>
+    
+    <item>
+      <title>September Talk: High Performance Computing by Matthew Wallis</title>
+      <link>http://www.plug.org.au/events/2015/hpc/</link>
+      <pubDate>Tue, 08 Sep 2015 18:00:00 +0800</pubDate>
+      
+      <guid>http://www.plug.org.au/events/2015/hpc/</guid>
+      <description>&lt;p&gt;This month we are delighted to have Matthew Wallis from Direct Data
+Networks talking to us about High Performance Computing.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>August Talk: The New Open Data Policy by Damian Shepherd</title>
+      <link>http://www.plug.org.au/events/2015/open-data/</link>
+      <pubDate>Tue, 11 Aug 2015 18:00:00 +0800</pubDate>
+      
+      <guid>http://www.plug.org.au/events/2015/open-data/</guid>
+      <description>&lt;p&gt;The policy was announced at GovHack and it’s a Western Australian
+Whole of Government Policy. Open Data within government is a hot topic
+and it’s great to see a clear direction from within State Government
+around releasing data in free and accessible formats.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>July Talk: Raspberry Pi Jam</title>
+      <link>http://www.plug.org.au/events/2015/rpi-jam/</link>
+      <pubDate>Tue, 14 Jul 2015 18:00:00 +0800</pubDate>
+      
+      <guid>http://www.plug.org.au/events/2015/rpi-jam/</guid>
+      <description>&lt;p&gt;We will have a couple of short presentations form PLUG members that
+have done amazing things with their Pi&amp;rsquo;s followed by an informal
+breakout session where you can work on your latest project or discuss
+ideas.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>June Talk: Crypto Party with Port80</title>
+      <link>http://www.plug.org.au/events/2015/crypto-party/</link>
+      <pubDate>Wed, 03 Jun 2015 18:00:00 +0800</pubDate>
+      
+      <guid>http://www.plug.org.au/events/2015/crypto-party/</guid>
+      <description>Crypto Party in conjunction with Port80 run by Luke John.
+There will be a few lighting talks and some discussion around things like:
+Key Signing Full Disk Encryption Metadata / Mandatory Data Retention Hardware Security Tor Followed by breakout sessions where you can do some practical crypto. If you want to get your PGP keys signed bring along some ID or if you don&amp;rsquo;t use PGP but want to know how, bring along a laptop and we can get you set up.</description>
+    </item>
+    
+    <item>
+      <title>April Talk: EventStreamr by Leon Wright</title>
+      <link>http://www.plug.org.au/events/2015/eventstreamr/</link>
+      <pubDate>Mon, 13 Apr 2015 18:00:00 +0800</pubDate>
+      
+      <guid>http://www.plug.org.au/events/2015/eventstreamr/</guid>
+      <description>&lt;p&gt;EventStreamr &amp;ndash; What is it, why does it exist and how can I help? This
+talk will touch briefly on the History of Plug AV, conference
+experiences and what problems the EventStreamr software attempts to
+solve.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>March Talk: Signals and Control @ Castledare Miniature Railways</title>
+      <link>http://www.plug.org.au/events/2015/castledare/</link>
+      <pubDate>Fri, 13 Mar 2015 10:30:00 +0800</pubDate>
+      
+      <guid>http://www.plug.org.au/events/2015/castledare/</guid>
+      <description>&lt;p&gt;Mike Crean has kindly invited us to visit Castledare Miniature
+Railways!&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

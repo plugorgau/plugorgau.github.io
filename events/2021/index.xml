@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2021 Events on Perth Linux Users Group</title>
+    <link>http://www.plug.org.au/events/2021/</link>
+    <description>Recent content in 2021 Events on Perth Linux Users Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language><atom:link href="http://www.plug.org.au/events/2021/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>February Talk: Puppet by Simon Anderson</title>
+      <link>http://www.plug.org.au/events/2021/puppet/</link>
+      <pubDate>Tue, 09 Feb 2021 18:00:00 +0800</pubDate>
+      
+      <guid>http://www.plug.org.au/events/2021/puppet/</guid>
+      <description>Managing fleets of systems can sometimes lead to boring and repetitive work, which in turn can lead to mistakes being made and productivity dropping. I will be talking about how we can use some simple tools to streamline and standardise the tasks so that system admins and the like and use their time more productively and more enjoyable whilst not having to worry about human-error mistakes being made (as much)</description>
+    </item>
+    
+  </channel>
+</rss>

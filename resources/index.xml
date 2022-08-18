@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resources on Perth Linux Users Group</title>
+    <link>http://www.plug.org.au/resources/</link>
+    <description>Recent content in Resources on Perth Linux Users Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language><atom:link href="http://www.plug.org.au/resources/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IRC Server</title>
+      <link>http://www.plug.org.au/resources/irc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.plug.org.au/resources/irc/</guid>
+      <description> PLUG runs an IRC channel on UNIIRC. To join us on IRC connect to the server: irc.plug.org.au Then join the channel #plug </description>
+    </item>
+    
+    <item>
+      <title>Mailing List</title>
+      <link>http://www.plug.org.au/resources/mailing-list/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.plug.org.au/resources/mailing-list/</guid>
+      <description>The PLUG mailing list is one of the main points of interaction between PLUG members. (Another being our regular meetings and events.) The list is for discussion of everything Linux-related and can be a good way to get help for those having trouble with Linux. Off-topic messages are tolerated in small quantities but longer threads should be moved to the off-topic list. We don&amp;rsquo;t look fondly upon flaming, trolling or spamming.</description>
+    </item>
+    
+  </channel>
+</rss>
