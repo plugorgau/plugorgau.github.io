@@ -3,24 +3,53 @@ name: gh-pages
 on:
   push:
     branches: [master, main]
+  # Allow manual triggering of the workflow
+  workflow_dispatch:
+
+# Allow workflow to deploy to pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Cancel in-progress jobs
+concurrency:
+  group: pages
+  cancel-in-progress: true
 
 env:
   TZ: Australia/Perth
+  GIT_CONFIG_NOSYSTEM: "1"
 
 jobs:
-  gh-pages:
+  build:
     runs-on: ubuntu-latest
-    env:
-      GIT_CONFIG_NOSYSTEM: "1"
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - name: Install Hugo
         run: sudo snap install --channel=extended/stable hugo
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v2
       - name: Configure git identity
         run: |
           git config --global user.email "${{ github.actor }}@users.noreply.github.com"
           git config --global user.name "${{ github.actor }}"
       - name: Build site
-        run: ./build-to-gh-pages.sh
-      - name: Deploy gh-pages branch
-        run: git -C ./public push origin -f gh-pages
+        run: hugo --baseURL "${{ steps.pages.outputs.base_url }}/"
+      - name: Upload pages
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: ./public
+
+  # Deployment job
+  deploy:
+    runs-on: ubuntu-latest
+    needs: build
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v1
