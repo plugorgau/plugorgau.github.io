@@ -39,7 +39,7 @@ title: AGM Archive 2023
 
 
 ## 1. Confirmation of the minutes of the previous AGM.
-* [AGM 2022 Minutes](https://plugorgau.github.io/events/AGM/2022/)
+* [AGM 2022 Minutes](/events/AGM/2022.md)
 * Moved by Nick and seconded by Paul  
 * Passed without dissent.
 
@@ -48,7 +48,7 @@ title: AGM Archive 2023
  
 1. Chairperson's Report:  [President's Report](PresidentsReport2022.pdf)
 2. Secretary's Report:  [Secretary's Report 2022](SecretarysReport2022.pdf)
-3. Treasurer's Report:  [Treasurer's Report 2022](/documents/2023/Treasurers_Report_2022.pdf)
+3. Treasurer's Report:  [Treasurer's Report 2022](Treasurers_Report-2022.pdf) ([odp](Treasurers_Report-2022.odp))
 
 ## 3. Election of 2023 Committee.
 The Nominations received before the deadline are:
