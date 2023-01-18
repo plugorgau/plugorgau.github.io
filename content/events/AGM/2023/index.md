@@ -24,7 +24,7 @@ title: AGM Archive 2023
 - Nick Bannon
 - Sarah Allard
 - Patrick Cody
-- Paul D
+- Paul A
 - Niall Navin
 - Peter Lyons
 - James Henstridge
