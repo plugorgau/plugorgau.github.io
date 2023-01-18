@@ -24,7 +24,7 @@ title: AGM Archive 2023
 - Nick Bannon
 - Sarah Allard
 - Patrick Cody
-- Paul
+- Paul A
 - Niall Navin
 - Peter Lyons
 - James Henstridge
@@ -75,7 +75,7 @@ The Nominations received before the deadline are:
   * James Henstridge
   * Nick Bannon
   * Patrick Cody
-  * Paul
+  * Paul A
 
 Nominations received after the deadline
 
