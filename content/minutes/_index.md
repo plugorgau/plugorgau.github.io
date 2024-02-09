@@ -5,6 +5,7 @@ url: /events/committee/
 
 Minutes for the Perth Linux User Group AGMs:
 
+* [2024](/events/AGM/2024.md)
 * [2023](/events/AGM/2023/index.md)
 * [2022](/events/AGM/2022.md)
 * [2021](/events/AGM/2021.md)
