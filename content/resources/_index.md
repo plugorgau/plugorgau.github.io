@@ -5,10 +5,6 @@ title: Resources
 
 * Regular [social events](/events/_index.md)
 * [Mailing lists](mailing-list.md) - over 350 people.
-* IRC Chat: [#plug on irc.plug.org.au](irc.md)
-  * We run an IRC channel on [UNIIRC](https://www.uniirc.com/).
-  * To join us on IRC connect to the server irc.plug.org.au.
-  * Then join the channel #plug
 * [Mumble](https://www.mumble.info/) Chat: #plug on mumble.plug.org.au
 * Video recordings and streaming on [YouTube](https://www.youtube.com/user/PerthLinuxUsersGroup) care of our own [AV project](mailing-list.md#av)
 * Collaboration with other organisations including:
