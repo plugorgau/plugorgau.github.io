@@ -12,7 +12,7 @@ Other Linux User Groups (LUGs) around the country include:
  * Queensland:
   * [Home Unix Machine, Brisbane User Group](https://www.humbug.org.au/) (HUMBUG)
   * [Central Queensland Linux Users Group](https://cqlug.linux.org.au/) (CQLUG)
- * South Australia: [LinuxSA](http://www.linuxsa.org.au/)
+ <!-- * South Australia: [LinuxSA](http://www.linuxsa.org.au/) -->
  * Tasmania: [Tasmanian Linux Users' Group](https://taslug.org.au/main/public) (TasLUG)
  * Victoria:
    * [Free Software Australia, Melbourne branch](https://freesoftware.org.au/melbourne/) (FSM)
