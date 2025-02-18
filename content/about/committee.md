@@ -6,6 +6,7 @@ The PLUG committee consists of seven members who are elected annually during the
 
 Year | Chairperson (President) | Vice-Chairperson (Vice-President) | Treasurer    | Secretary        | Committee Members (OCMs)
 ---- | ----------------------- | --------------------------------- | ------------ | ---------------- | ------------------------
+2025 | James Henstridge | Nick Bannon | Paul | Wyatt Teakle | Dan Buzzard, Jacek Korneluk, Harry McNally |
 2024 (from October) | Harry McNally     | Wyatt Teakle                      | Paul         | James Henstridge | Dan Buzzard, Jacek Korneluk
 2024 | Niall Navin             | Nick Bannon                       | Sarah Allard | James Henstridge | Dan Buzzard, Lochran Huck, Benjamin I.D. Silva
 2023 | Niall Navin             | Benjamin Arntzen    | Peter Lyons       | Nick Bannon   | James Henstridge, Patrick Cody, Paul
