@@ -25,12 +25,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: Install Hugo
         run: sudo snap install --channel=extended/stable hugo
       - name: Setup Pages
         id: pages
-        uses: actions/configure-pages@v2
+        uses: actions/configure-pages@v5
       - name: Configure git identity
         run: |
           git config --global user.email "${{ github.actor }}@users.noreply.github.com"
@@ -38,7 +38,7 @@ jobs:
       - name: Build site
         run: hugo --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Upload pages
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
 
@@ -52,4 +52,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v4
