@@ -234,3 +234,19 @@
         }
     }
 }
+
+/* Pagination */
+
+.pagination {
+    margin: 1rem 0;
+
+    li {
+        display: inline-block;
+
+        a {
+            color: $grey-color-dark;
+            border: 1px solid $grey-color-dark;
+            padding: 0.5rem;
+        }
+    }
+}
