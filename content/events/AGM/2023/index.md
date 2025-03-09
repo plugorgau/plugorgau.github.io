@@ -39,7 +39,7 @@ title: AGM Archive 2023
 
 
 ## 1. Confirmation of the minutes of the previous AGM.
-* [AGM 2022 Minutes](/events/AGM/2022.md)
+* [AGM 2022 Minutes](../2022/index.md)
 * Moved by Nick and seconded by Paul  
 * Passed without dissent.
 

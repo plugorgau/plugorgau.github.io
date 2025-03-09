@@ -37,7 +37,7 @@ title: AGM Archive 2022
 * Alexander Kent
 
 ## 1. Confirmation of the minutes of the previous AGM.
-* [AGM 2021 Minutes](https://plugorgau.github.io/events/AGM/2021/)
+* [AGM 2021 Minutes](../2021/index.md)
 * Moved by Paul and seconded by Nick 
 * Passed without dissent.
 
@@ -47,7 +47,7 @@ title: AGM Archive 2022
 1. Chairperson's Report: 
 
    We have managed to keep going despite COVID. Most of our talks were streamed online and recorded via BigBlueButton. Two talks were presented via BigBlueButton. The jitsi parties were popular when they started but have tailed off.
-2. Secretary's Report:  [Secretary's Report 2021](/documents/2022/Secretarys_Report_2021.pdf)
+2. Secretary's Report:  [Secretary's Report 2021](Secretarys_Report_2021.pdf)
 3. Treasurer's Report:  [Treasurer's Report 2021](/documents/2022/Treasurers_Report_2021.pdf)
 
 ## 3. Election of 2022 Committee.

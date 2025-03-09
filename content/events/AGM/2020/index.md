@@ -14,7 +14,7 @@ title: AGM Archive 2020
   * Apologies from Niall and Michel.
 
 1. Confirmation of the minutes of the previous AGM.
-  - [https://www.plug.org.au/events/AGM/2019/](/events/AGM/2019/)
+  - [https://www.plug.org.au/events/AGM/2019/](../2019.md)
   - Date: 2018 should read as 2019.
   - List quorum correctly for 31 members. (5.567...)
   - Margaret moves that the minutes are accepted, seconded by Alastair.
@@ -25,8 +25,8 @@ title: AGM Archive 2020
       * Three major goals AV, Infrastructure and Admin.
    2. Treasurer's Report.
       * Presented:
-         * [Treasurers_Report-2018.odp (145 KiB)](/documents/2019/Treasurers_Report-2018.odp)
-         * [Treasurers_Report-2019.odp (247 KiB)](/documents/2020/Treasurers_Report-2019.odp)
+         * [Treasurers_Report-2018.odp (145 KiB)](Treasurers_Report-2018.odp)
+         * [Treasurers_Report-2019.odp (247 KiB)](Treasurers_Report-2019.odp)
       * MOTION: Nick moves that the summary financial report figures be added to the minutes of the 2019 AGM and 2020 AGM, Margaret to second. 7 Yes 1 No and 1 Abstained.
       * Edited to add, post-AGM:
 

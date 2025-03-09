@@ -36,7 +36,7 @@ Nick: Thanks to our venue Sponsor: Spacecubed and thanks for the use of their â€
 
 
 ## 1. Confirmation of the minutes of the previous AGM.
-* https://plugorgau.github.io/events/AGM/2020/
+* [AGM 2020 Minutes](../2020/index.md)
 * Moved by Nick and seconded by Margaret
 * Passed without dissent.
 
@@ -48,9 +48,9 @@ Nick: Thanks to our venue Sponsor: Spacecubed and thanks for the use of their â€
    * 2020 was good to us, here in Perth! PLUGâ€™s events continued as scheduled, with a few extra online showings - thanks to UCCâ€™s BigBlueButton instance
    * We uploaded more seminar talks, James published a bbb-render to record the BBB streams to a single video file using gstreamer editing services - as used as GUADEC; and there have been community contributions to add start/end titles
 3. Secretary Report:
-    * [Secretarys_Report-2021.pdf (37 KiB)](/documents/2021/Secretarys_Report-2021.pdf)
+    * [Secretarys_Report-2021.pdf (37 KiB)](Secretarys_Report-2021.pdf)
 4. Treasurer's Report:
-    * [Treasurers_Report-2020.pdf (179 KiB)](/documents/2021/Treasurers_Report-2020.pdf)
+    * [Treasurers_Report-2020.pdf (179 KiB)](Treasurers_Report-2020.pdf)
 
 
 ## 3. Election of 2021 Committee.

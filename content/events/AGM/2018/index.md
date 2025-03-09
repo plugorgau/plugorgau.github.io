@@ -50,7 +50,7 @@ Financial membership is down, 20 financial members as of today, from approximate
 
 [Kieran leaves at 1936]
 
-Treasurer's Report 2017 from Peter Lyons
+[Treasurer's Report 2017](Treasurers_Report-2017.odp) from Peter Lyons
 End of 2017 Current assets: $3924.57 in liquid cash: bank balance, cash at hand (cashbox), prepaid debit card.
 
 Nick just mentioned a few informal things about the secretaries findings.

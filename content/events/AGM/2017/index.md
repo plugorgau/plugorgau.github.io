@@ -25,7 +25,7 @@ There were 33 members (paid and current)
 
 Every 3 months we have a PLUG in the PUB. There was discussion that the Moon and Sixpence will be closing soon. Durty Nelly's was suggested as a possible replacement.
 
-Peter Lyons presented the Treasurer's Report:
+Peter Lyons presented the [Treasurer's Report](Treasurers_Report-2016.odp):
 
 * Position at the end of 2016:
   * Current Assets	$4,479.40
