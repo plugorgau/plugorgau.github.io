@@ -1,5 +1,6 @@
 ---
-title: AGM Archive 2020
+title: AGM Minutes 2020
+date: 2020-02-11
 ---
 
 # Perth Linux Users Group - Annual General Meeting 2020 - Minutes

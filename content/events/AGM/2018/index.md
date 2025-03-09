@@ -1,5 +1,6 @@
 ---
-title: AGM Archive 2018
+title: AGM Minutes 2018
+date: 2018-03-13
 ---
 
 # Perth Linux Users Group – Annual General Meeting 2018 – Minutes

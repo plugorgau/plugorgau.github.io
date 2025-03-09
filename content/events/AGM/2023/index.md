@@ -1,5 +1,6 @@
 ---
-title: AGM Archive 2023
+title: AGM Minutes 2023
+date: 2023-01-10
 ---
 
 # PLUG Annual General Meeting 2023 Minutes

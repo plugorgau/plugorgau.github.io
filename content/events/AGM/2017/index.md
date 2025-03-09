@@ -1,5 +1,6 @@
 ---
-title: AGM Archive 2017
+title: AGM Minutes 2017
+date: 2017-01-10
 ---
 
 ## Perth Linux Users Group – Annual General Meeting 2017 – Minutes

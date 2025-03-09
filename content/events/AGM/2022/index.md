@@ -1,5 +1,6 @@
 ---
-title: AGM Archive 2022
+title: AGM Minutes 2022
+date: 2022-01-11
 ---
 
 # PLUG Annual General Meeting 2022 Minutes

@@ -1,5 +1,6 @@
 ---
-title: AGM Archive 2021
+title: AGM Minutes 2021
+date: 2021-01-12
 ---
 
 # PLUG Annual General Meeting Minutes for 2021
