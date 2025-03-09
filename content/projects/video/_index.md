@@ -19,5 +19,5 @@ Reading material:
  * [Physical equipment List](equipment-list.md)
 
 Instructions:
- * [Network setup](network.md)
+ * [Network setup](network/index.md)
  * [Equipment setup](setup.md)

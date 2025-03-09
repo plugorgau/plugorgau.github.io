@@ -10,7 +10,7 @@ The network hardware currently consists of a GL.iNet GL-MT1300 "Beryl" WiFi rout
 
 Optionally, an additional switch (nominally an 8-port gigabit switch) can also be connected to **one** of the LAN ports on the Beryl to provide Ethernet networking to one or more wired devices (beyond the two built-in ports), useful for events such as the Raspberry Pi Jams.
 
-![1-Router](network/1-Router.jpeg)
+![1-Router](1-Router.jpeg)
 
 ## Physical setup
 
@@ -29,7 +29,7 @@ Once the Beryl has been turned on, you'll want to log onto it and see its curren
 * Using a browser, access the main admin panel (http://10.20.30.1/)
 * Log in to the main admin panel using the admin password (**TODO**: Document the password).
 
-![2-MainPage](network/2-MainPage.png)
+![2-MainPage](2-MainPage.png)
 
 You should see the main page, which gives you a view of which network connections are available and in use. In the picture provided, the router is connected to both Ethernet ("Cable") and WiFi ("jamesh-home-5G") upstream networks.
 
@@ -60,7 +60,7 @@ No special configuration is required for connecting to an Ethernet network - it 
   * TODO
 * If Beryl is not currently connected to a network:
   * Find the "Repeater" 
-    ![3-MainPage-Bottom](network/3-MainPage-Bottom.png)
+    ![3-MainPage-Bottom](3-MainPage-Bottom.png)
 
 ## Connecting AV clients
 
