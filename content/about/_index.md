@@ -3,9 +3,6 @@ layout: single
 title: About
 ---
 
- * [Committee](committee.md)
- * [Constitution](constitution.md)
- * [Documents](documents.md)
  * [Related Groups](related-groups.md)
 
 The _Perth Linux User's Group_ (PLUG) is one of the largest Linux groups in Australia & Perth.
@@ -38,3 +35,20 @@ Our members have brought our region's premier [Linux, Free Software and Open sou
 conference](https://linux.conf.au/) :
 * to WA in 2003 and 2014, see [https://linux.org.au/linux-conf-au/](https://linux.org.au/linux-conf-au/) ; and
 * assisted in the preparation, running and audio/video recording of many others.
+
+## The Association
+
+PLUG is an incorporated association with ABN 58 233 849 580. More information about the association can be found here:
+
+ * [Constitution](constitution.md)
+ * [Documents](documents.md)
+ * [Annual General Meeting minutes](../events/AGM/_index.md)
+
+
+## The Committee
+
+PLUG is managed by it's committee.
+
+ * [Current and former committee members](committee.md)
+ * [Committee meeting minutes](../minutes/_index.md)
+
