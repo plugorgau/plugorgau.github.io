@@ -3,6 +3,8 @@ layout: single
 title: Events
 ---
 
+### New [August Installfest](installfest.md)
+
 We use the Google calendar (below) and [meetup](https://www.meetup.com/Perth-Linux-Users-Group-PLUG) to plan our events please look at those for specific events and details.
 
 Generally, PLUG runs a talk once a month at [Spacecubed](https://www.spacecubed.com/) along with a meetup in a local pub once every two months and a quiz night with prizes once a year around April or May.
