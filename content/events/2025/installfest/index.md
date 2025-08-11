@@ -1,10 +1,12 @@
 ---
-layout: single
 title: Installfest August 2025 - A guide
 date: 2025-08-10T22:00:00+08:00
+aliases:
+ - /installfest
 ---
 
-[![Insallfest August 2025](../../../images/events/CollinsStreetCentre.png)](https://onlineservices.southperth.wa.gov.au/facilities/facility/collins-street-centre)
+<!--more-->
+[![Insallfest August 2025](CollinsStreetCentre.png)](https://onlineservices.southperth.wa.gov.au/facilities/facility/collins-street-centre)
 
 
 ### When:   Saturday 23 August, 2025 12.30pm until 4.00pm
@@ -14,8 +16,8 @@ date: 2025-08-10T22:00:00+08:00
 ### Access: Wheelchair access from upper carpark
 
 ### Bus:
-            Canning Highway before Collins Street, Stop 10231 (from Perth)
-            Canning Highway after Cliffe Street,   Stop 10338 (from Fremantle)
+ * Canning Highway before Collins Street, Stop 10231 (from Perth)
+ * Canning Highway after Cliffe Street,   Stop 10338 (from Fremantle)
 
 ### RSVP:
 

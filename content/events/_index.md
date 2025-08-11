@@ -3,7 +3,7 @@ layout: single
 title: Events
 ---
 
-### New [August Installfest](installfest.md)
+### New [August Installfest](2025/installfest/index.md)
 
 We use the Google calendar (below) and [meetup](https://www.meetup.com/Perth-Linux-Users-Group-PLUG) to plan our events please look at those for specific events and details.
 

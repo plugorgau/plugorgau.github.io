@@ -3,7 +3,7 @@ title: Observations from Raspberry Pico Sensor Hacking
 date: 2024-09-29T16:00:00+08:00
 ---
 
-[![Raspberry_PicoW](../../../images/events/raspberry_picow.jpg)](https://datasheets.raspberrypi.com/picow/pico-w-product-brief.pdf)
+[![Raspberry_PicoW](raspberry_picow.jpg)](https://datasheets.raspberrypi.com/picow/pico-w-product-brief.pdf)
 
 The Saturday afternoon workshop was to work with the Raspberry PicoW to reproduce and extend an existing project that is [hosted](https://gitlab.ucc.asn.au/UCC/ucc-door-sensor) on UCC's Gitlab server.
 
