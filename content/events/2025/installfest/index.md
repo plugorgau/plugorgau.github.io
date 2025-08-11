@@ -15,6 +15,8 @@ aliases:
 
 ### Access: Wheelchair access from upper carpark
 
+### Map:    [OpenStreetMap](https://www.openstreetmap.org/#map=18/-31.980788/115.875957)
+
 ### Bus:
  * Canning Highway before Collins Street, Stop 10231 (from Perth)
  * Canning Highway after Cliffe Street,   Stop 10338 (from Fremantle)
@@ -25,7 +27,7 @@ Email [committee@plug.org.au with Subject:Installfest](mailto:committee@plug.org
 
 ### Cost:
 
-JAFWA have kindly offered space for PLUG at their Afternoon event. The JAFWA entry fee is $5 and is the only cost for attending the Installfest.
+[JAFWA](https://jafwa.asn.au) have kindly offered space for PLUG at their Event Afternoon. The JAFWA entry fee is $5 and is the only cost for attending the Installfest.
 
 ## Why Installfest ?
 
@@ -84,7 +86,7 @@ Testing and installation is all provided in a Live Boot USB thumb drive; either 
 
 ### Installing Linux
 
-The Live Boot USB has a desktop icon to install Linux onto the hard disk. Please do not use this until you are ready to replace Windows! A small number of questions are asked about the keyboard, language, and location (for time zone) and then the installation proceeds with very little user interaction. Once installed, you are asked to remove the Live Boot USB and allow the computer to reboot from its own data storage runnng Linux instead of Windows.
+The Live Boot USB has a desktop icon to install Linux onto the hard disk. Please do not use this until you are ready to replace Windows! A small number of questions are asked about the keyboard, language, and location (for time zone) and then the installation proceeds with very little user interaction. Once installed, you are asked to remove the Live Boot USB and allow the computer to reboot from its own data storage running Linux instead of Windows.
 
 ### Using security updates and installing additional apps
 
