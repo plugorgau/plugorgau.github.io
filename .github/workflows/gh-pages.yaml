@@ -38,7 +38,7 @@ jobs:
       - name: Build site
         run: hugo --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Upload pages
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
           path: ./public
 
