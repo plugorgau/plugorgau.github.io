@@ -3,6 +3,7 @@ title: AGM Minutes 2017
 date: 2017-01-10
 ---
 
+<!--more-->
 ## Perth Linux Users Group – Annual General Meeting 2017 – Minutes
 
 Held at 45 St Georges Terrace Perth CBD. Spacecubed.org on Tuesday 10th of January 2017 at 7:30 PM

@@ -3,6 +3,7 @@ title: AGM Minutes 2018
 date: 2018-03-13
 ---
 
+<!--more-->
 # Perth Linux Users Group – Annual General Meeting 2018 – Minutes
 
 The Perth Linux Users Group Annual General Meeting held at Spacecubed.com at 45 St Georges Terrace, Perth CBD on Tuesday 13th March 2018 at 7:20 PM.
