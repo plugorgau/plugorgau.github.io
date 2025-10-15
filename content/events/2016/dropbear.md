@@ -1,6 +1,8 @@
 ---
-title: "June Talk: Dropbear by Matt Johnston"
+title: "June Talk: Dropbear"
 date: 2016-06-14T18:00:00+08:00
+presenters:
+  - Matt Johnston
 ---
 
 Dropbear is an open source SSH server running on millions of embedded

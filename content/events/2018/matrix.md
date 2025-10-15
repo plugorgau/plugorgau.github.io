@@ -1,6 +1,8 @@
 ---
-title: "August Talk: What is the Matrix? by Eamonn Collins"
+title: "August Talk: What is the Matrix?"
 date: 2018-08-14T18:00:00+08:00
+presenters:
+  - Michael Collins
 ---
 
 What is the 'Matrix'? What features does it have? What is 'PerthChat'

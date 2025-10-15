@@ -1,6 +1,8 @@
 ---
 title: "March Talk: IPV6"
 date: 2013-03-12T18:00:00+08:00
+presenters:
+  - Adrian Woodley
 ---
 
 Following the success of 2012's World IPv6 Launch, several popular

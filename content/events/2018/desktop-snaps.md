@@ -1,6 +1,8 @@
 ---
-title: "April Talk: Confined applications on the desktop by James Henstridge"
+title: "April Talk: Confined applications on the desktop"
 date: 2018-04-10T18:00:00+08:00
+presenters:
+  - James Henstridge
 ---
 
 Traditionally, Linux distributions have relied on package archives

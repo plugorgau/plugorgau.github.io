@@ -1,6 +1,8 @@
 ---
-title: "September Talk: Matrix in 2020 by Michael Collins"
+title: "September Talk: Matrix in 2020"
 date: 2020-09-08T18:00:00+08:00
+presenters:
+  - Michael Collins
 ---
 
 Join us as we discuss recent changes to Matrix and future plans for

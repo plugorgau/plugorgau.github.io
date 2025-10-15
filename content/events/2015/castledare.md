@@ -1,6 +1,8 @@
 ---
 title: "March Talk: Signals and Control @ Castledare Miniature Railways"
 date: 2015-03-13T10:30:00+08:00
+presenters:
+ - Mike Crean
 ---
 
 Mike Crean has kindly invited us to visit Castledare Miniature

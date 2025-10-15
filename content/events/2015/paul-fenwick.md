@@ -1,6 +1,8 @@
 ---
-title: "November Talk: The future is awesome by Paul Fenwick"
+title: "November Talk: The future is awesome"
 date: 2015-11-09T18:00:00+08:00
+presenters:
+  - Paul Fenwick
 ---
 
 The 21st century is a time with an unprecedented expansion of ideas,
@@ -12,6 +14,7 @@ awesome in ways you may not expect, and what you can do about it.
 
 Paul J Fenwick is a well known speaker especially at things like at
 linux.conf.au and it's well worth coming to see him. http://pjf.id.au/
+<!--more-->
 
 ## Presenter Bio
 

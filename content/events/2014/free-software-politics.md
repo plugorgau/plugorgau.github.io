@@ -1,6 +1,8 @@
 ---
-title: "October Talk: Free Software in Political Campaigning by Grahame Bowland"
+title: "October Talk: Free Software in Political Campaigning"
 date: 2014-10-14T18:00:00+08:00
+presenters:
+  - Grahame Bowland
 ---
 
 

@@ -17,3 +17,6 @@ unsafe = true
 
 [permalinks]
 minutes = "/events/committee/:year/:month-:day/"
+
+[taxonomies]
+presenter = "presenters"

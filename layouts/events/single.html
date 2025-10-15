@@ -3,6 +3,9 @@
 
   <header class="post-header">
     <h1 class="post-title">{{ .Page.Title }}</h1>
+{{- with .Page.GetTerms "presenters" }}
+      <p>by {{ range $i, $p := . }}{{ if $i }}, {{ end }}<a href="{{ $p.RelPermalink }}">{{ $p.Title }}</a>{{ end }}</p>
+{{- end }}
     {{ if not .Page.IsHome }}{{ with .Page.Date }}<p class="post-meta">{{ .Format "January 2, 2006" }}</p>{{ end }}{{ end -}}
   </header>
 

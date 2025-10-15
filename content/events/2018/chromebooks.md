@@ -1,6 +1,8 @@
 ---
-title: "June Talk: Chromebooks Unleashed by Benjamin Arntzen"
+title: "June Talk: Chromebooks Unleashed"
 date: 2018-06-12T18:00:00+08:00
+presenters:
+  - Benjamin Arntzen
 ---
 
 Chromebooks Unleashed is a talk on the surprising potential of a cheap
