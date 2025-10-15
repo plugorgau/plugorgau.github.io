@@ -1,18 +1,30 @@
 ---
-layout: single
-title: Events
+title: Events Archive
+layout: archive
+url: /events/archive/
 ---
 
-### New [August Installfest](2025/installfest/index.md)
+Here is a list of previous PLUG events, organized by year.
 
-We use the Google calendar (below) and [meetup](https://www.meetup.com/Perth-Linux-Users-Group-PLUG) to plan our events please look at those for specific events and details.
-
-Generally, PLUG runs a talk once a month at [Spacecubed](https://www.spacecubed.com/) along with a meetup in a local pub once every two months and a quiz night with prizes once a year around April or May.
-
-<iframe src="https://www.google.com/calendar/embed?showTitle=0&showNav=0&showDate=0&showPrint=0&showTabs=0&showCalendars=0&mode=AGENDA&height=200&wkst=1&bgcolor=%23FFFFFF&src=president%40plug.org.au&color=%23182C57&ctz=Australia%2FPerth" style=" border-width:0 " width="100%" height="500" frameborder="0" scrolling="no"></iframe>
-
-You can also subscribe to an [iCalendar feed](https://calendar.google.com/calendar/ical/president%40plug.org.au/public/basic.ics) of all events.
-
-To visit our archives of previous events (including talks), check out the [Event Archives](archive.md).
-
-To visit our archives of the Annual General Meetings and (where available) meeting minutes, check out the [Committee Archives](minutes/_index.md).
+* [2025](2025/_index.md)
+* [2024](2024/_index.md)
+* [2021](2021/_index.md)
+* [2020](2020/_index.md)
+* [2019](2019/_index.md)
+* [2018](2018/_index.md)
+* [2017](2017/_index.md)
+* [2016](2016/_index.md)
+* [2015](2015/_index.md)
+* [2014](2014/_index.md)
+* [2013](2013/_index.md)
+* [2012](2012/_index.md)
+* [2011](2011.md)
+* [2010](2010.md)
+* [2009](2009.md)
+* [2008](2008.md)
+* [2007](2007.md)
+* [2006](2006.md)
+* [2005](2005.md)
+* [2004](2004.md)
+* [2003](2003.md)
+* [2001](2001.md)
