@@ -1,5 +1,5 @@
 ---
-title: "October Talk: Data Centre tour at DownUnder GeoSolutions"
+title: "Data Centre tour at DownUnder GeoSolutions"
 date: 2016-10-11T18:00:00+08:00
 ---
 

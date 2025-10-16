@@ -1,5 +1,5 @@
 ---
-title: "April Talk: Deploying an OpenStack control plane with MAAS, Ansible, and Ceph"
+title: "Deploying an OpenStack control plane with MAAS, Ansible, and Ceph"
 date: 2019-04-09T18:00:00+08:00
 presenters:
   - Gregory Orange

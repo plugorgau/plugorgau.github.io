@@ -1,5 +1,5 @@
 ---
-title: "September Talk: Get More Sleep"
+title: "Get More Sleep"
 date: 2018-09-11T18:00:00+08:00
 presenters:
   - Benjamin Arntzen

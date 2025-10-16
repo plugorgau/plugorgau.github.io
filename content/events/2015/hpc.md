@@ -1,5 +1,5 @@
 ---
-title: "September Talk: High Performance Computing"
+title: "High Performance Computing"
 date: 2015-09-08T18:00:00+08:00
 presenters:
   - Matthew Wallis

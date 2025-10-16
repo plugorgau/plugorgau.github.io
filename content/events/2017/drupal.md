@@ -1,7 +1,6 @@
 ---
-title: "September Talk: Highly Available Drupal - Achieving fault-tolerance in the AWS Cloud"
+title: "Highly Available Drupal - Achieving fault-tolerance in the AWS Cloud"
 date: 2017-09-12T18:00:00+08:00
-
 ---
 
 Drupal is an open-source CMS used to build great websites. In this

@@ -1,5 +1,5 @@
 ---
-title: "March Talk: Deploying IoT/embedded applications with Ubuntu Core"
+title: "Deploying IoT/embedded applications with Ubuntu Core"
 date: 2019-03-12T18:00:00+08:00
 presenters:
   - James Henstridge

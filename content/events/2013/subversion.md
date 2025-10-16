@@ -1,5 +1,5 @@
 ---
-title: "July Talk: Intro into Subversion"
+title: "Intro into Subversion"
 date: 2013-07-09T18:00:00+08:00
 presenters:
   - Alastair Irvine

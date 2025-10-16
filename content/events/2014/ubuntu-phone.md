@@ -1,5 +1,5 @@
 ---
-title: "July Talk: Ubuntu Phone"
+title: "Ubuntu Phone"
 date: 2014-07-08T18:00:00+08:00
 presenters:
   - James Henstridge

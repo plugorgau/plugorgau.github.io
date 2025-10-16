@@ -1,5 +1,5 @@
 ---
-title: "June Talk: Riff.CC"
+title: "Riff.CC"
 date: 2021-06-08T18:00:00+08:00
 presenters:
  - Benjamin Arntzen

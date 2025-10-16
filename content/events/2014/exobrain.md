@@ -1,5 +1,5 @@
 ---
-title: "April Talk: Build Your Own Exobrain"
+title: "Build Your Own Exobrain"
 date: 2014-04-30T18:00:00+08:00
 presenters:
   - Paul Fenwick

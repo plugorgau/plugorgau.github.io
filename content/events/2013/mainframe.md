@@ -1,5 +1,5 @@
 ---
-title: "May Talk: Linux on IBM Mainframes"
+title: "Linux on IBM Mainframes"
 date: 2013-05-14T18:00:00+08:00
 presenters:
   - Han Wen Kam

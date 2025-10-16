@@ -1,5 +1,5 @@
 ---
-title: "March Talk: IPV6"
+title: "IPV6"
 date: 2013-03-12T18:00:00+08:00
 presenters:
   - Adrian Woodley

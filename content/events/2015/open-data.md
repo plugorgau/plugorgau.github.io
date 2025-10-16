@@ -1,5 +1,5 @@
 ---
-title: "August Talk: The New Open Data Policy"
+title: "The New Open Data Policy"
 date: 2015-08-11T18:00:00+08:00
 presenters:
   - Damian Shepherd

@@ -1,5 +1,5 @@
 ---
-title: "October Talk: Creating Deb Packages"
+title: "Creating Deb Packages"
 date: 2018-10-09T18:00:00+08:00
 presenters:
   - Alastair Irvine

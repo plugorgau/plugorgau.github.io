@@ -1,5 +1,5 @@
 ---
-title: "November Talk: Linux on Large Clusters"
+title: "Linux on Large Clusters"
 date: 2012-11-13T18:00:00+08:00
 presenters:
   - Stuart Midgley

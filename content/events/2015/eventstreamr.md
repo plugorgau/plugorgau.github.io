@@ -1,5 +1,5 @@
 ---
-title: "April Talk: EventStreamr"
+title: "EventStreamr"
 date: 2015-04-13T18:00:00+08:00
 presenters:
   - Leon Wright

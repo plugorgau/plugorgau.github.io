@@ -1,5 +1,5 @@
 ---
-title: "June Talk: Chromebooks Unleashed"
+title: "Chromebooks Unleashed"
 date: 2018-06-12T18:00:00+08:00
 presenters:
   - Benjamin Arntzen

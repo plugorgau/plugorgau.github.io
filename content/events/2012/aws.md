@@ -1,5 +1,5 @@
 ---
-title: "December Talk: Amazon Web Services"
+title: "Amazon Web Services"
 date: 2012-12-11T18:00:00+08:00
 presenters:
   - James Bromberger

@@ -1,5 +1,5 @@
 ---
-title: "October Talk: Configuration Management using Puppet"
+title: "Configuration Management using Puppet"
 date: 2013-10-08T18:00:00+08:00
 presenters:
   - Luke Williams

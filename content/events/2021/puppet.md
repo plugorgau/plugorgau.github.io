@@ -1,5 +1,5 @@
 ---
-title: "February Talk: Puppet"
+title: "Puppet"
 date: 2021-02-09T18:00:00+08:00
 presenters:
   - Simon Anderson

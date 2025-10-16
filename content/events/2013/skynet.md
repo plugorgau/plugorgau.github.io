@@ -1,5 +1,5 @@
 ---
-title: "November Talk: SkyNet Pan-STARRS1 Optical Galaxy Survey project"
+title: "SkyNet Pan-STARRS1 Optical Galaxy Survey project"
 date: 2013-11-12T18:00:00+08:00
 presenters:
   - Kevin Vinsen

@@ -1,5 +1,5 @@
 ---
-title: "July Talk: GitHub Actions"
+title: "GitHub Actions"
 date: 2020-07-14T18:00:00+08:00
 presenters:
   - James Henstridge

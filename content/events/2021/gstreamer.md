@@ -1,5 +1,5 @@
 ---
-title: "May Talk: Editing Video with code"
+title: "Editing Video with code"
 date: 2021-05-11T18:00:00+08:00
 presenters:
  - James Henstridge

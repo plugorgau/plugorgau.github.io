@@ -1,5 +1,5 @@
 ---
-title: "November Talk: The future is awesome"
+title: "The future is awesome"
 date: 2015-11-09T18:00:00+08:00
 presenters:
   - Paul Fenwick

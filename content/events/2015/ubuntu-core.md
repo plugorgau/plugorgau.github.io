@@ -1,5 +1,5 @@
 ---
-title: "October Talk: Deploying apps on Snappy Ubuntu Core"
+title: "Deploying apps on Snappy Ubuntu Core"
 date: 2015-10-13T18:00:00+08:00
 presenters:
   - James Henstridge

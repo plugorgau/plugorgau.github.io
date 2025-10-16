@@ -1,5 +1,5 @@
 ---
-title: "August Talk: Raspberry Pi Jam and Workshop"
+title: "Raspberry Pi Jam and Workshop"
 date: 2020-08-11T18:00:00+08:00
 ---
 
