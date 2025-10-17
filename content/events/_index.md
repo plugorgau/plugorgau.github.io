@@ -26,5 +26,5 @@ Here is a list of previous PLUG events, organized by year.
 * [2006](2006.md)
 * [2005](2005.md)
 * [2004](2004.md)
-* [2003](2003.md)
+* [2003](2003/_index.md)
 * [2001](2001.md)
