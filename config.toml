@@ -6,7 +6,7 @@ enableGitInfo = true
 enableRobotsTXT = true
 
 [pagination]
-pagerSize = 50
+pagerSize = 20
 
 [params]
 github_username = "plugorgau"
