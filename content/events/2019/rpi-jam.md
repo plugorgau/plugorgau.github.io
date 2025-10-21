@@ -1,5 +1,5 @@
 ---
-title: "May Talk: Raspberry PI Jam & Workshop"
+title: "Raspberry PI Jam & Workshop"
 date: 2019-05-14T18:00:00+08:00
 ---
 

@@ -1,6 +1,8 @@
 ---
-title: "August Talk: The New Open Data Policy by Damian Shepherd"
+title: "The New Open Data Policy"
 date: 2015-08-11T18:00:00+08:00
+presenters:
+  - Damian Shepherd
 ---
 
 The policy was announced at GovHack and it’s a Western Australian

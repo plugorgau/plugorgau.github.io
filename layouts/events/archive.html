@@ -1,0 +1,23 @@
+{{ define "main" }}
+<div class="post">
+
+  <article class="post-content">
+    <section>
+      {{- .Content -}}
+    </section>
+    <section>
+      {{ $paginator := .Paginate .RegularPagesRecursive }}
+      {{ range $paginator.Pages.GroupByDate "January 2006" }}
+      <h3>{{ .Key }}</h3>
+      <ul>
+        {{ range .Pages }}
+        {{- partial "summary.html" . -}}
+        {{ end }}
+      </ul>
+      {{ end }}
+    </section>
+    {{- template "_internal/pagination.html" . -}}
+  </article>
+
+</div>
+{{ end }}

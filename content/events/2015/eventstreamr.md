@@ -1,6 +1,8 @@
 ---
-title: "April Talk: EventStreamr by Leon Wright"
+title: "EventStreamr"
 date: 2015-04-13T18:00:00+08:00
+presenters:
+  - Leon Wright
 ---
 
 EventStreamr -- What is it, why does it exist and how can I help? This

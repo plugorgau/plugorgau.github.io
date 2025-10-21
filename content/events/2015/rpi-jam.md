@@ -1,5 +1,5 @@
 ---
-title: "July Talk: Raspberry Pi Jam"
+title: "Raspberry Pi Jam"
 date: 2015-07-14T18:00:00+08:00
 ---
 

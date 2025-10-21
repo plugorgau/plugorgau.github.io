@@ -1,5 +1,5 @@
 ---
-title: "May Talk: Ubuntu Launch Party"
+title: "Ubuntu Launch Party"
 date: 2018-05-08T18:00:00+08:00
 ---
 

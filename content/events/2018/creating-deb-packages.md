@@ -1,6 +1,8 @@
 ---
-title: "October Talk: Creating Deb Packages by Alastair Irvine"
+title: "Creating Deb Packages"
 date: 2018-10-09T18:00:00+08:00
+presenters:
+  - Alastair Irvine
 ---
 
 Once upon a time, Debian was a GNU/Linux distribution that was mainly
@@ -9,6 +11,7 @@ distributions such as Red Hat, and their derivatives.  Then Canonical
 used it to create Ubuntu, and the world changed.  (In the interim
 though, there were a lot of businesses relying on Debian as a stable,
 low-TCO server OS with good security support.)
+<!--more-->
 
 If you are running Debian on a personal host or in production, you
 might have wondered how Debian packages work and whether you have a

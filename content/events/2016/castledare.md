@@ -1,5 +1,5 @@
 ---
-title: "November Talk: Castledare Trains"
+title: "Castledare Trains"
 date: 2016-11-12T11:00:00+08:00
 ---
 

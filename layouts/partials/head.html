@@ -6,7 +6,7 @@
   <link rel="shortcut icon" href="{{ relURL ($.Site.Params.favicon) }}" type="image/x-icon" />
   {{- end }}
 
-  <title>{{ if .Params.Title }}{{ .Params.Title }}{{ else }}{{ .Site.Title }}{{ end }}</title>
+  <title>{{ if .Title }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}</title>
   {{/* NOTE: These Hugo Internal Templates can be found starting at https://gi
 thub.com/spf13/hugo/blob/master/tpl/tplimpl/template_embedded.go#L158 */}}
   {{- template "_internal/opengraph.html" . -}}

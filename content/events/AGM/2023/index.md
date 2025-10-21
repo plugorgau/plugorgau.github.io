@@ -3,6 +3,7 @@ title: AGM Minutes 2023
 date: 2023-01-10
 ---
 
+<!--more-->
 # PLUG Annual General Meeting 2023 Minutes
 
 * Venue: Spacecubed.com, 45 St Georges Terrace, Perth WA 6000

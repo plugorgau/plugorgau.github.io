@@ -1,6 +1,14 @@
 ---
-title: Observations from Raspberry Pico Sensor Hacking
+title: Raspberry Pico Sensor Hacking
 date: 2024-09-29T16:00:00+08:00
+---
+
+The UCC has recently set up [a door
+sensor](https://gitlab.ucc.asn.au/UCC/ucc-door-sensor) - a Raspberry
+PicoW and reed switch, talking MQTT to a backend VM - but we'll be
+wanting more soon, and perhaps other types of input/output.
+<!--more-->
+
 ---
 
 [![Raspberry_PicoW](raspberry_picow.jpg)](https://datasheets.raspberrypi.com/picow/pico-w-product-brief.pdf)

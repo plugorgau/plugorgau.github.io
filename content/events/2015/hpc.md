@@ -1,6 +1,8 @@
 ---
-title: "September Talk: High Performance Computing by Matthew Wallis"
+title: "High Performance Computing"
 date: 2015-09-08T18:00:00+08:00
+presenters:
+  - Matthew Wallis
 ---
 
 This month we are delighted to have Matthew Wallis from Direct Data

@@ -6,7 +6,7 @@ enableGitInfo = true
 enableRobotsTXT = true
 
 [pagination]
-pagerSize = 50
+pagerSize = 20
 
 [params]
 github_username = "plugorgau"
@@ -17,3 +17,6 @@ unsafe = true
 
 [permalinks]
 minutes = "/events/committee/:year/:month-:day/"
+
+[taxonomies]
+presenter = "presenters"

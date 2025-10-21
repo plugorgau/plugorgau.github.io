@@ -3,6 +3,7 @@ title: AGM Minutes 2021
 date: 2021-01-12
 ---
 
+<!--more-->
 # PLUG Annual General Meeting Minutes for 2021
 
 * Venue: Spacecubed.com, 45 St Georges Terrace, Perth WA 6000

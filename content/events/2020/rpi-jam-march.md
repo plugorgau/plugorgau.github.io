@@ -1,5 +1,5 @@
 ---
-title: "March Talk: Raspberry Pi Jam and Workshop"
+title: "Raspberry Pi Jam and Workshop"
 date: 2020-03-10T18:00:00+08:00
 ---
 

@@ -3,6 +3,7 @@ title: AGM Minutes 2022
 date: 2022-01-11
 ---
 
+<!--more-->
 # PLUG Annual General Meeting 2022 Minutes
 
 * Venue: Spacecubed.com, 45 St Georges Terrace, Perth WA 6000

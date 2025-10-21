@@ -1,6 +1,8 @@
 ---
-title: "April Talk: Build Your Own Exobrain by Paul Fenwick"
+title: "Build Your Own Exobrain"
 date: 2014-04-30T18:00:00+08:00
+presenters:
+  - Paul Fenwick
 ---
 
 Online services like "If This Then That" (IFTTT) are great for

@@ -1,6 +1,8 @@
 ---
-title: "April Talk: Deploying an OpenStack control plane with MAAS, Ansible, and Ceph by Gregory Orange"
+title: "Deploying an OpenStack control plane with MAAS, Ansible, and Ceph"
 date: 2019-04-09T18:00:00+08:00
+presenters:
+  - Gregory Orange
 ---
 
 The Pawsey Super computing Centre in Technology Park offers an

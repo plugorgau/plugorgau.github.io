@@ -1,6 +1,8 @@
 ---
-title: "July Talk: GNU/Linux in some tiny places by Chris McCormick"
+title: "GNU/Linux in some tiny places"
 date: 2018-07-10T18:00:00+08:00
+presenters:
+  - Chris McCormick
 ---
 
 Modern user-space GNU tools and scripting languages on Android with

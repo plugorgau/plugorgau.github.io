@@ -1,9 +1,12 @@
 ---
-title: "June Talk: Crypto Party with Port80"
+title: "Crypto Party with Port80"
 date: 2015-06-03T18:00:00+08:00
+presenters:
+  - Luke John
 ---
 
 Crypto Party in conjunction with Port80 run by Luke John.
+<!--more-->
 
 There will be a few lighting talks and some discussion around things like:
 * Key Signing

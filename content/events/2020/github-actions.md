@@ -1,6 +1,8 @@
 ---
-title: "July Talk: GitHub Actions by James Henstridge"
+title: "GitHub Actions"
 date: 2020-07-14T18:00:00+08:00
+presenters:
+  - James Henstridge
 ---
 
 Github Actions is a continuous integration system that can be used for

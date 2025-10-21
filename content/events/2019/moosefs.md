@@ -1,6 +1,8 @@
 ---
-title: "September Talk: MooseFS and the Elastic NAS by Benjamin Arntzen"
+title: "MooseFS and the Elastic NAS"
 date: 2019-09-10T18:00:00+08:00
+presenters:
+  - Benjamin Arntzen
 ---
 
 A do-it-yourself approach to [network-attached

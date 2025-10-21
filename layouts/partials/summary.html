@@ -1,3 +1,5 @@
-<li><div><a href="{{ .RelPermalink }}">{{ .Title }}</a></div>
+<li><div><a href="{{ .RelPermalink }}">{{ .Title }}</a>
+{{- with .GetTerms "presenters" }} by {{ range $i, $p := . }}{{ if $i }}, {{ end }}{{ .Title }}{{ end }}{{ end -}}
+</div>
 {{- with .Summary }}<div>{{ . }}</div>{{ end -}}
 </li>

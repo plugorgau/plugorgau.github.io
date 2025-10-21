@@ -3,6 +3,7 @@ title: AGM Minutes 2020
 date: 2020-02-11
 ---
 
+<!--more-->
 # Perth Linux Users Group - Annual General Meeting 2020 - Minutes
 
 * Our venue has been provided by Spacecubed.com
