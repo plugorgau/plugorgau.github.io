@@ -1,14 +1,15 @@
 ---
-title: Installfest August 2025 - A guide
-date: 2025-08-10T22:00:00+08:00
+title: Installfest November 2025 - A guide
+date: 2025-11-08T18:00:00+08:00
 aliases:
+ - /installfest
 ---
 
 <!--more-->
-[![Installfest August 2025](CollinsStreetCentre.png)](https://onlineservices.southperth.wa.gov.au/facilities/facility/collins-street-centre)
+[![Installfest November 2025](CollinsStreetCentre.png)](https://onlineservices.southperth.wa.gov.au/facilities/facility/collins-street-centre)
 
 
-### When:   Saturday 23 August, 2025 12.30pm until 4.00pm
+### When:   Saturday 22 November, 2025 13.30pm until 4.00pm
 
 ### Where:  Collins Street Centre, 4 Collins Street, South Perth
 
@@ -32,7 +33,7 @@ Email [committee@plug.org.au with Subject:Installfest](mailto:committee@plug.org
 
 PLUG Installfest offers time and assistance to anyone who wishes to learn about Linux for work, education, or interest.
 
-The August 2025 installfest is part of the global EndOf10 initiative. Read more at [https://endof10.org](https://endof10.org)
+The November 2025 installfest is part of the global EndOf10 initiative. Read more at [https://endof10.org](https://endof10.org)
 
 The essence of the initiative is to reuse any computer presently running Windows10 that is deemed unable to run Windows11. Linux places no restrictions like this and will continue to offer feature upgrades and security updates which are about to cease for Windows10 computers. 
 
