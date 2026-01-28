@@ -6,13 +6,14 @@ draft: true
 
 # PLUG AGM 2026
 
-## Atendees
+## Attendees
 
 Present:
 
  - Benjamin Lupton
  - James Henstridge
  - Harry McNally
+ - Margaret Wood
  - Nick Bannon
  - Paul D
  - Steve Schrader
