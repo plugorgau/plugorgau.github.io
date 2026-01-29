@@ -16,10 +16,12 @@ Present:
  - Margaret Wood
  - Nick Bannon
  - Paul D
+ - Byron Hammond
  - Steve Schrader
  - Terry O'Keefe
  - Wyatt Teakle
- - ???
+ - Mark Dixon
+ - Peter Bradshaw
 
 ## Committee Report
 
