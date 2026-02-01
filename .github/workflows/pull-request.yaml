@@ -13,7 +13,12 @@ jobs:
       GIT_CONFIG_NOSYSTEM: "1"
     steps:
       - uses: actions/checkout@v6
+      #- name: Install Hugo
+      #  run: sudo snap install --channel=extended/stable hugo
       - name: Install Hugo
-        run: sudo snap install --channel=extended/stable hugo
+        uses: peaceiris/actions-hugo@v3.0.0
+        with:
+          hugo-version: latest
+          extended: true
       - name: Try to build website
         run: hugo
