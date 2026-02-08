@@ -6,8 +6,11 @@ url: /events/archive/
 
 Here is a list of previous PLUG events, organized by year.
 
+[2026](2026/_index.md) |
 [2025](2025/_index.md) |
 [2024](2024/_index.md) |
+[2023](2023/_index.md) |
+[2022](2022/_index.md) |
 [2021](2021/_index.md) |
 [2020](2020/_index.md) |
 [2019](2019/_index.md) |
