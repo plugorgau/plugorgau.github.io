@@ -59,6 +59,14 @@ The committee report was presented by James using the following slide deck:
 | Balance                                    | -$900.59 |
 | Excluding carried over Meetup invoices     | -$428.05 |
 
+### Bank Balance as of 6th January 2026
+
+|              |          |
+|--------------|----------|
+| Bendigo Bank | $2191.50 |
+| Cash box     |  $386.10 |
+| Total        | $2577.60 |
+
 ### Not-for-profit Self Review
 
 The ATO introduced new rules requiring not for profits to declare why
@@ -74,6 +82,19 @@ June 2025. New public officers can easily be added and removed now.
 
 We are now up to date with our NFP self reviews.
 
+
+### Server Migration Project
+
+Initially started in 2018 as a planned upgrade from Debian 7 to Debian
+9, driven by Benjamin and Nick.
+
+Used Ansible to describe our configuration
+
+Restarted in 2025, updating playbook to target Debian 12
+
+Deployed on a VM hosted at Binary Lane
+
+Now upgraded to Debian 13, with most services migrated.
 
 ### Venues
 
