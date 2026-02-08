@@ -1,8 +1,9 @@
 ---
 title: AGM Minutes 2026
-date: 2026-01-13
+date: 2026-01-13T19:00:00+08:00
 ---
 
+<!--more-->
 ## Attendees
 
 Present:
