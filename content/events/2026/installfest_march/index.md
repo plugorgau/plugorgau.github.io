@@ -1,14 +1,15 @@
 ---
-title: Installfest November 2025 - A guide
-date: 2025-11-08T18:00:00+08:00
+title: Installfest March 2026 - A guide
+date: 2026-03-26T11:25:00+08:00
 aliases:
+ - /installfest
 ---
 
 <!--more-->
-[![Installfest November 2025](CollinsStreetCentre.png)](https://onlineservices.southperth.wa.gov.au/facilities/facility/collins-street-centre)
+[![Installfest March 2026](CollinsStreetCentre.png)](https://onlineservices.southperth.wa.gov.au/facilities/facility/collins-street-centre)
 
 
-### When:   Saturday 22 November, 2025 13.30pm until 4.00pm
+### When:   Saturday 28 March, 2026 1 pm until 4 pm
 
 ### Where:  Collins Street Centre, 4 Collins Street, South Perth
 
@@ -26,13 +27,17 @@ Email [committee@plug.org.au with Subject:Installfest](mailto:committee@plug.org
 
 ### Cost:
 
-[JAFWA](https://jafwa.asn.au) have kindly offered space for PLUG at their Event Afternoon. The JAFWA entry fee is $5 and is the only cost for attending the Installfest.
+[JAFWA](https://jafwa.asn.au) have kindly offered space for PLUG at their Event Afternoon. Our entry fee is $5 for PLUG members and $10 for non-members and is the only cost for attending the Installfest. Food and drinks are available from the JAFWA refreshment tables.
+
+### RaspberryPi theme
+
+In addition to our usual Installfest activity, the day will include enthusiasts for the RaspberryPi single board computer. If you have questions or ideas for using the RaspberryPi, or a project of your own you would like to share, please bring along your Pi and seek out like-minded RaspberryPi users and developers.
 
 ## Why Installfest ?
 
 PLUG Installfest offers time and assistance to anyone who wishes to learn about Linux for work, education, or interest.
 
-The November 2025 installfest is part of the global EndOf10 initiative. Read more at [https://endof10.org](https://endof10.org)
+The March 2026 installfest is part of the global EndOf10 initiative. Read more at [https://endof10.org](https://endof10.org)
 
 The essence of the initiative is to reuse any computer presently running Windows10 that is deemed unable to run Windows11. Linux places no restrictions like this and will continue to offer feature upgrades and security updates which are about to cease for Windows10 computers. 
 
