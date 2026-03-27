@@ -27,7 +27,7 @@ Email [committee@plug.org.au with Subject:Installfest](mailto:committee@plug.org
 
 ### Cost:
 
-[JAFWA](https://jafwa.asn.au) have kindly offered space for PLUG at their Event Afternoon. Our entry fee is $5 for PLUG members and $10 for non-members and is the only cost for attending the Installfest. Food and drinks are available from the JAFWA refreshment tables.
+[JAFWA](https://jafwa.asn.au) have kindly offered space for PLUG at their Event Afternoon. Our entry fee is $10 for PLUG members and $20 for non-members and is the only cost for attending the Installfest. Food and drinks are available from the JAFWA refreshment tables.
 
 ### RaspberryPi theme
 
