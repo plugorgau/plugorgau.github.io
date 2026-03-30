@@ -35,7 +35,7 @@ jobs:
           extended: true
       - name: Setup Pages
         id: pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v6
       - name: Configure git identity
         run: |
           git config --global user.email "${{ github.actor }}@users.noreply.github.com"
