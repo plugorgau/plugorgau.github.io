@@ -1,14 +1,15 @@
 ---
-title: Installfest March 2026 - A guide
-date: 2026-03-26T11:25:00+08:00
+title: Installfest June 2026 - A guide
+date: 2026-05-10T11:00:00+08:00
 aliases:
+    - /installfest
 ---
 
 <!--more-->
-[![Installfest March 2026](CollinsStreetCentre.png)](https://onlineservices.southperth.wa.gov.au/facilities/facility/collins-street-centre)
+[![Installfest June 2026](CollinsStreetCentre.png)](https://onlineservices.southperth.wa.gov.au/facilities/facility/collins-street-centre)
 
 
-### When:   Saturday 28 March, 2026 1 pm until 4 pm
+### When:   Saturday 20 June, 2026 10 am until 4 pm
 
 ### Where:  Collins Street Centre, 4 Collins Street, South Perth
 
@@ -26,17 +27,21 @@ Email [committee@plug.org.au with Subject:Installfest](mailto:committee@plug.org
 
 ### Cost:
 
-[JAFWA](https://jafwa.asn.au) have kindly offered space for PLUG at their Event Afternoon. Our entry fee is $10 for PLUG members and $20 for non-members and is the only cost for attending the Installfest. Food and drinks are available from the JAFWA refreshment tables.
+The Installfest will use the [Pay What You Can](https://en.wikipedia.org/wiki/Pay_what_you_can) model and any payment will be a donation to PLUG. We do not have tax detuctable status. [JAFWA](https://jafwa.asn.au) will be holding their regular Events Day in the main venue and will also have snacks and drinks available at their refreshment tables. Entry to JAFWA Events Days is $5.
 
-### RaspberryPi theme
+### RaspberryPi projects
 
 In addition to our usual Installfest activity, the day will include enthusiasts for the RaspberryPi single board computer. If you have questions or ideas for using the RaspberryPi, or a project of your own you would like to share, please bring along your Pi and seek out like-minded RaspberryPi users and developers.
+
+### Backup and Restore theme
+
+The PLUG committee has also chosen backup and restore as the theme for the June Installfest. If you would like to learn more about present-day data management tools then seek out committee members to learn more.
 
 ## Why Installfest ?
 
 PLUG Installfest offers time and assistance to anyone who wishes to learn about Linux for work, education, or interest.
 
-The March 2026 installfest is part of the global EndOf10 initiative. Read more at [https://endof10.org](https://endof10.org)
+The June 2026 installfest is part of the global EndOf10 initiative. Read more at [https://endof10.org](https://endof10.org)
 
 The essence of the initiative is to reuse any computer presently running Windows10 that is deemed unable to run Windows11. Linux places no restrictions like this and will continue to offer feature upgrades and security updates which are about to cease for Windows10 computers. 
 
@@ -75,7 +80,7 @@ A laptop is much simpler but do not forget the plug pack and external mouse if y
 
 We will have wireless and wired network access but we encourage you to bring your phone if it has a data plan. If you don't use the phone this way already, we can show you how to connect Linux to your phone wireless hotspot so you can continue exploring Linux at the Installfest and beyond. After learning how to connect to wireless, you will know how to connect to other wireless networks at work, home, or public wireless access.
 
-Even if you are coming along without a computer, we encourage you to bring a USB thumb drive so that you can take away Linux ready to install at a later date. We will have several different Linux versions to try and we can prepare the USB thumb drive from your choice. We can prepare multiple thumb drives if you bring them; Linux is free to install and use. Like the laptop data, copying Linux onto the USB thumb drive will erase all other data on the USB drive. A minimum 8GB thumb drive is required and if it is an old one then it may be a bit slower but it will work well enough. A [new 32GB USB thumb drive](https://www.ple.com.au/products/659054/sandisk-cruzer-glide-32gb-usb-30-type-a-flash-drive) is $9 to $10 so bring a new one if you are unsure. 
+Even if you are coming along without a computer, we encourage you to bring a USB thumb drive so that you can take away Linux ready to install at a later date. We will have several different Linux versions to try and we can prepare the USB thumb drive from your choice. We can prepare multiple thumb drives if you bring them; Linux is free to install and use. Like the laptop data, copying Linux onto the USB thumb drive will erase all other data on the USB drive. A minimum 8GB thumb drive is required and if it is an old one then it may be a bit slower but it will work well enough. A [new 32GB USB thumb drive](https://www.ple.com.au/products/659054/sandisk-cruzer-glide-32gb-usb-30-type-a-flash-drive) is $20 to $30 so bring a new one if you are unsure. 
 
 It is not essential but we recommend installees also have a Live Boot to start their computer for recovery, for testing without any access to existing data on the hard storage, or to use or demonstrate Linux on other Windows computers. 
 
