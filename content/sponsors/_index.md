@@ -8,12 +8,13 @@ title: PLUG Sponsors
 [![Spacecubed](../images/sponsors/spacecubed.jpg)](https://www.spacecubed.com/)
 
 * * *
-
+<!--
 [**Hostaway**](https://www.hostaway.net.au/), a Perth-based ISP, generously providing Server Hosting.
 
 [![Hostaway logo](../images/sponsors/hostaway.png)](https://www.hostaway.net.au/)
 
 * * *
+-->
 
 ### Past Sponsors
 
