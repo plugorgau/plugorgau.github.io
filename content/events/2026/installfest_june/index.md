@@ -29,6 +29,10 @@ Email [committee@plug.org.au with Subject:Installfest](mailto:committee@plug.org
 
 The Installfest will use the [Pay What You Can](https://en.wikipedia.org/wiki/Pay_what_you_can) model and any payment will be a donation to PLUG. We do not have tax detuctable status. [JAFWA](https://jafwa.asn.au) will be holding their regular Events Day in the main venue and will also have snacks and drinks available at their refreshment tables. Entry to JAFWA Events Days is $5.
 
+### Acknowledgments:
+
+The Installfest is hosted by [Perth Linux Users Group](https://plug.org.au) and is auspiced by [Linux Australia](https://linux.org.au/) to provide support for the event. 
+
 ### RaspberryPi projects
 
 In addition to our usual Installfest activity, the day will include enthusiasts for the RaspberryPi single board computer. If you have questions or ideas for using the RaspberryPi, or a project of your own you would like to share, please bring along your Pi and seek out like-minded RaspberryPi users and developers.
