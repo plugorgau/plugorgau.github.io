@@ -16,5 +16,6 @@ We provide a wide range of [resources](/resources/_index.md) to help & assist.
 
 *   Chat with us on IRC: [#plug on irc.plug.org.au](/resources/irc.md)
 *   [Mumble](https://www.mumble.info/) Chat: #plug on mumble.plug.org.au
+*   [Element|Matrix](https://app.element.io/#/room/#plug:matrix.org) Chat: #plug on element.io
 *   [Our talks on YouTube](https://www.youtube.com/user/PerthLinuxUsersGroup)
 *   Watch our live video streams on [icecast](http://icecast.plug.org.au:8000/) or [YouTube](https://www.youtube.com/user/PerthLinuxUsersGroup)
