@@ -2,7 +2,6 @@
 title: Installfest June 2026 - A guide
 date: 2026-05-10T11:00:00+08:00
 aliases:
-    - /installfest
 ---
 
 <!--more-->
